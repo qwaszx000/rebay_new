@@ -1,3 +1,4 @@
+//#define SQL_DB_T
 /world/proc/load_mode()
 	var/text = file2text("data/mode.txt")
 	if (text)

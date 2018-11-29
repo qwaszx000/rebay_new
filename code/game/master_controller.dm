@@ -3,6 +3,7 @@ var/ticker_debug
 var/updatetime
 var/global/gametime = 0
 var/global/gametime_last_updated
+
 datum/controller/game_controller
 	var/processing = 1
 	//var/lastannounce = 0
