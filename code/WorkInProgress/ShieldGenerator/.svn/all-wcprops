@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/64/baystation/code/WorkInProgress/ShieldGenerator
+END
+Shield.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/60/baystation/code/WorkInProgress/ShieldGenerator/Shield.dm
+END
+Emitters.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/60/baystation/code/WorkInProgress/ShieldGenerator/Emitters.dm
+END
+ShieldCapacitor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/60/baystation/code/WorkInProgress/ShieldGenerator/ShieldCapacitor.dm
+END
+ShieldNetwork.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/60/baystation/code/WorkInProgress/ShieldGenerator/ShieldNetwork.dm
+END
+ShieldingNetworkController.dm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/60/baystation/code/WorkInProgress/ShieldGenerator/ShieldingNetworkController.dm
+END
+Conduit.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/60/baystation/code/WorkInProgress/ShieldGenerator/Conduit.dm
+END
+Generator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/64/baystation/code/WorkInProgress/ShieldGenerator/Generator.dm
+END
+Shared.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/60/baystation/code/WorkInProgress/ShieldGenerator/Shared.dm
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing
+END
+helmets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/helmets.dm
+END
+shoes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/shoes.dm
+END
+biosuits.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/defines/obj/clothing/biosuits.dm
+END
+glasses.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/glasses.dm
+END
+spacesuits.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/spacesuits.dm
+END
+suits.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/suits.dm
+END
+masks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/masks.dm
+END
+hats.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/hats.dm
+END
+gloves.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/gloves.dm
+END
+gimmick.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/gimmick.dm
+END
+unders.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing/unders.dm
+END

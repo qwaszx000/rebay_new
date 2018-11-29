@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/95/baystation/code/game
+END
+sound.dm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/60/baystation/code/game/sound.dm
+END
+communications.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/64/baystation/code/game/communications.dm
+END
+master_controller.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/64/baystation/code/game/master_controller.dm
+END
+throwing.dm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/60/baystation/code/game/throwing.dm
+END
+dna.dm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/60/baystation/code/game/dna.dm
+END
+supplyshuttle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/73/baystation/code/game/supplyshuttle.dm
+END
+atom_procs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/60/baystation/code/game/atom_procs.dm
+END
+chemistry.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/baystation/code/game/chemistry.dm
+END
+cellautomata.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/78/baystation/code/game/cellautomata.dm
+END
+smoothwalls.dm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/baystation/code/game/smoothwalls.dm
+END
+landmarks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/baystation/code/game/landmarks.dm
+END
+vote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/60/baystation/code/game/vote.dm
+END
+topic.dm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/60/baystation/code/game/topic.dm
+END
+vials.dm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/60/baystation/code/game/vials.dm
+END
+turf.dm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/73/baystation/code/game/turf.dm
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/95/baystation/code/game/hud.dm
+END
+status.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/60/baystation/code/game/status.dm
+END
+algorithm.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/95/baystation/code/game/algorithm.dm
+END

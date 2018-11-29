@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/95/baystation/code/modules/mob/living
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/78/baystation/code/modules/mob/living/say.dm
+END
+living.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/baystation/code/modules/mob/living/living.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/modules/mob/living/login.dm
+END

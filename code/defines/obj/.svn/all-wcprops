@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/95/baystation/code/defines/obj
+END
+decal.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/60/baystation/code/defines/obj/decal.dm
+END
+weapon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/95/baystation/code/defines/obj/weapon.dm
+END
+closet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/73/baystation/code/defines/obj/closet.dm
+END
+injector.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/defines/obj/injector.dm
+END
+computer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/95/baystation/code/defines/obj/computer.dm
+END
+radio.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/73/baystation/code/defines/obj/radio.dm
+END
+machinery.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/73/baystation/code/defines/obj/machinery.dm
+END
+spawner.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/baystation/code/defines/obj/spawner.dm
+END
+door.dm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/baystation/code/defines/obj/door.dm
+END
+storage.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/73/baystation/code/defines/obj/storage.dm
+END
+assemblies.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/defines/obj/assemblies.dm
+END
+food.dm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/baystation/code/defines/obj/food.dm
+END
+window.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/73/baystation/code/defines/obj/window.dm
+END
+clothing.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/95/baystation/code/defines/obj/clothing.dm
+END

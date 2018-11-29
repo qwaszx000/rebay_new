@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/73/baystation/code/game/objects/storage
+END
+crates.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/baystation/code/game/objects/storage/crates.dm
+END
+briefcase.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/game/objects/storage/briefcase.dm
+END
+storage.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/objects/storage/storage.dm
+END
+firstaid.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/objects/storage/firstaid.dm
+END
+toolbox.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/objects/storage/toolbox.dm
+END
+coat.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/baystation/code/game/objects/storage/coat.dm
+END
+kit.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/game/objects/storage/kit.dm
+END
+belts.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/game/objects/storage/belts.dm
+END
+bible.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/game/objects/storage/bible.dm
+END
+backpack.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/objects/storage/backpack.dm
+END

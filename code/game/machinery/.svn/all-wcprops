@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/95/baystation/code/game/machinery
+END
+Freezer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/machinery/Freezer.dm
+END
+overview.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/60/baystation/code/game/machinery/overview.dm
+END
+hologram.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/60/baystation/code/game/machinery/hologram.dm
+END
+robot_fabricator.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/60/baystation/code/game/machinery/robot_fabricator.dm
+END
+flasher.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/machinery/flasher.dm
+END
+spaceheater.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/game/machinery/spaceheater.dm
+END
+main.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/baystation/code/game/machinery/main.dm
+END
+airlock_control.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/baystation/code/game/machinery/airlock_control.dm
+END
+autolathe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/69/baystation/code/game/machinery/autolathe.dm
+END
+camera.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/baystation/code/game/machinery/camera.dm
+END
+gibber.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/baystation/code/game/machinery/gibber.dm
+END
+PersonalEscapePods.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/baystation/code/game/machinery/PersonalEscapePods.dm
+END
+adv_med.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/machinery/adv_med.dm
+END
+Sleeper.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/machinery/Sleeper.dm
+END
+atmo_control.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/64/baystation/code/game/machinery/atmo_control.dm
+END
+igniter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/machinery/igniter.dm
+END
+recharger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/baystation/code/game/machinery/recharger.dm
+END
+door_control.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/baystation/code/game/machinery/door_control.dm
+END
+status_display.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/baystation/code/game/machinery/status_display.dm
+END
+Interserver.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/game/machinery/Interserver.dm
+END
+turrets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/machinery/turrets.dm
+END
+cell_charger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/game/machinery/cell_charger.dm
+END
+cryo.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/baystation/code/game/machinery/cryo.dm
+END
+cyborgcharger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/machinery/cyborgcharger.dm
+END
+walllockers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/65/baystation/code/game/machinery/walllockers.dm
+END
+teleporter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/baystation/code/game/machinery/teleporter.dm
+END
+OpTable.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/machinery/OpTable.dm
+END
+lightswitch.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/game/machinery/lightswitch.dm
+END
+washer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/baystation/code/game/machinery/washer.dm
+END
+vending.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/machinery/vending.dm
+END
+floodlight.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/baystation/code/game/machinery/floodlight.dm
+END
+dispenser.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/game/machinery/dispenser.dm
+END
+alarm.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/64/baystation/code/game/machinery/alarm.dm
+END
+microwave.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/baystation/code/game/machinery/microwave.dm
+END
+navbeacon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/baystation/code/game/machinery/navbeacon.dm
+END
+cryo2.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/game/machinery/cryo2.dm
+END
+morgue.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/baystation/code/game/machinery/morgue.dm
+END

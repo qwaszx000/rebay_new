@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/baystation/code/modules/mob/living/silicon/ai
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/ai/death.dm
+END
+move.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/ai/move.dm
+END
+examine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/ai/examine.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/ai/login.dm
+END
+logout.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/ai/logout.dm
+END
+ai.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/baystation/code/modules/mob/living/silicon/ai/ai.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/baystation/code/modules/mob/living/silicon/ai/say.dm
+END
+AINetworkConnector.dm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/ai/AINetworkConnector.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/ai/life.dm
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/ai/hud.dm
+END

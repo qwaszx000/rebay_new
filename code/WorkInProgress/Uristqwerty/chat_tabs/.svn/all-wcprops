@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/95/baystation/code/WorkInProgress/Uristqwerty/chat_tabs
+END
+skin.dmf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/95/baystation/code/WorkInProgress/Uristqwerty/chat_tabs/skin.dmf
+END
+chat_tabs_disabled.dm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/60/baystation/code/WorkInProgress/Uristqwerty/chat_tabs/chat_tabs_disabled.dm
+END
+ooc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/60/baystation/code/WorkInProgress/Uristqwerty/chat_tabs/ooc.dm
+END
+adminhelp.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/60/baystation/code/WorkInProgress/Uristqwerty/chat_tabs/adminhelp.dm
+END
+adminsay.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/baystation/code/WorkInProgress/Uristqwerty/chat_tabs/adminsay.dm
+END
+chat_tabs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/60/baystation/code/WorkInProgress/Uristqwerty/chat_tabs/chat_tabs.dm
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/modules/mob/dead/observer
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/modules/mob/dead/observer/hud.dm
+END
+observer.dm.bak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/60/baystation/code/modules/mob/dead/observer/observer.dm.bak
+END
+login.dm.bak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/baystation/code/modules/mob/dead/observer/login.dm.bak
+END
+observer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/baystation/code/modules/mob/dead/observer/observer.dm
+END
+say.dm.bak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/baystation/code/modules/mob/dead/observer/say.dm.bak
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/60/baystation/code/modules/mob/dead/observer/login.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/modules/mob/dead/observer/say.dm
+END

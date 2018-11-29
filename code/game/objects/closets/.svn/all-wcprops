@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/73/baystation/code/game/objects/closets
+END
+portal.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/game/objects/closets/portal.dm
+END
+syndicate.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/game/objects/closets/syndicate.dm
+END
+wardrobe.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/baystation/code/game/objects/closets/wardrobe.dm
+END
+kitchen.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/objects/closets/kitchen.dm
+END
+janitor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/objects/closets/janitor.dm
+END
+l3closet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/objects/closets/l3closet.dm
+END
+nuclear.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/objects/closets/nuclear.dm
+END
+gmcloset.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/objects/closets/gmcloset.dm
+END
+thunderdome.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/60/baystation/code/game/objects/closets/thunderdome.dm
+END
+emergency.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/baystation/code/game/objects/closets/emergency.dm
+END
+load.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/60/baystation/code/game/objects/closets/load.dm
+END
+malfunction.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/60/baystation/code/game/objects/closets/malfunction.dm
+END

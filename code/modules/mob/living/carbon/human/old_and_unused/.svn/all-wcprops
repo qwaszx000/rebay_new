@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/human/old_and_unused
+END
+examine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/human/old_and_unused/examine.dm
+END
+human.dm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/human/old_and_unused/human.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/human/old_and_unused/life.dm
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/73/baystation/code/game/machinery/doors
+END
+door.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/baystation/code/game/machinery/doors/door.dm
+END
+airlock.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/baystation/code/game/machinery/doors/airlock.dm
+END
+poddoor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/machinery/doors/poddoor.dm
+END
+checkForMultipleDoors.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/60/baystation/code/game/machinery/doors/checkForMultipleDoors.dm
+END
+firedoor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/machinery/doors/firedoor.dm
+END
+edit_door_access.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/baystation/code/game/machinery/doors/edit_door_access.dm
+END
+brigdoors.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/game/machinery/doors/brigdoors.dm
+END
+windowdoor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/60/baystation/code/game/machinery/doors/windowdoor.dm
+END
+shuttledoor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/60/baystation/code/game/machinery/doors/shuttledoor.dm
+END

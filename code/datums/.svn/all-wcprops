@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/73/baystation/code/datums
+END
+construction_UI_table.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/baystation/code/datums/construction_UI_table.dm
+END
+chemical.dm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/60/baystation/code/datums/chemical.dm
+END
+sun.dm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/60/baystation/code/datums/sun.dm
+END
+datumvars.dm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/baystation/code/datums/datumvars.dm
+END
+mixed.dm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/60/baystation/code/datums/mixed.dm
+END
+configuration.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/datums/configuration.dm
+END
+modules.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/baystation/code/datums/modules.dm
+END
+vote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/60/baystation/code/datums/vote.dm
+END
+disease.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/baystation/code/datums/disease.dm
+END
+ai_laws.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/baystation/code/datums/ai_laws.dm
+END
+computerfiles.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/datums/computerfiles.dm
+END
+mind.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/64/baystation/code/datums/mind.dm
+END
+construction_UI.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/73/baystation/code/datums/construction_UI.dm
+END
+organs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/60/baystation/code/datums/organs.dm
+END
+shuttle_controller.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/baystation/code/datums/shuttle_controller.dm
+END

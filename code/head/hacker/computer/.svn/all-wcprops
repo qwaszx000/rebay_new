@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/60/baystation/code/head/hacker/computer
+END
+hacker.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/head/hacker/computer/hacker.dm
+END
+def.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/head/hacker/computer/def.dm
+END
+users.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/head/hacker/computer/users.dm
+END
+commands.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/head/hacker/computer/commands.dm
+END

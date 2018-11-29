@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/95/baystation/code/modules/mob/living/silicon/robot
+END
+robot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/95/baystation/code/modules/mob/living/silicon/robot/robot.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/robot/death.dm
+END
+examine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/robot/examine.dm
+END
+login.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/robot/login.dm
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/64/baystation/code/modules/mob/living/silicon/robot/say.dm
+END
+robot_modules.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/64/baystation/code/modules/mob/living/silicon/robot/robot_modules.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/robot/life.dm
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/60/baystation/code/modules/mob/living/silicon/robot/hud.dm
+END

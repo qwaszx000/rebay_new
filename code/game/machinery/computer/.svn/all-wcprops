@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/95/baystation/code/game/machinery/computer
+END
+mining_comm.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/baystation/code/game/machinery/computer/mining_comm.dm
+END
+power.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/power.dm
+END
+travel.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/travel.dm
+END
+medical.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/medical.dm
+END
+computer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/95/baystation/code/game/machinery/computer/computer.dm
+END
+engine.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/engine.dm
+END
+security.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/security.dm
+END
+hologram.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/hologram.dm
+END
+arcade.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/arcade.dm
+END
+atmos.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/atmos.dm
+END
+Mixer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/Mixer.dm
+END
+gasmon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/baystation/code/game/machinery/computer/gasmon.dm
+END
+robot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/robot.dm
+END
+buildandrepair.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/buildandrepair.dm
+END
+Operating.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/Operating.dm
+END
+shuttle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/66/baystation/code/game/machinery/computer/shuttle.dm
+END
+communications.dm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/77/baystation/code/game/machinery/computer/communications.dm
+END
+atmosfilter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/baystation/code/game/machinery/computer/atmosfilter.dm
+END

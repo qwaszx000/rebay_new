@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/73/baystation/code/game/objects/devices/PDA
+END
+PDA.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/baystation/code/game/objects/devices/PDA/PDA.dm
+END
+cart.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/baystation/code/game/objects/devices/PDA/cart.dm
+END
+radio.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/baystation/code/game/objects/devices/PDA/radio.dm
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/64/baystation/code/game/gamemodes/traitor
+END
+traitorinfo.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/baystation/code/game/gamemodes/traitor/traitorinfo.dm
+END
+traitor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/baystation/code/game/gamemodes/traitor/traitor.dm
+END

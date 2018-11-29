@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/95/baystation/code/game/machinery/ComputerNetworks
+END
+ShortRangeAntenna.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/60/baystation/code/game/machinery/ComputerNetworks/ShortRangeAntenna.dm
+END
+ManageNetwork.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/baystation/code/game/machinery/ComputerNetworks/ManageNetwork.dm
+END
+Routers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/60/baystation/code/game/machinery/ComputerNetworks/Routers.dm
+END
+MessagingServer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/60/baystation/code/game/machinery/ComputerNetworks/MessagingServer.dm
+END
+Main.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/60/baystation/code/game/machinery/ComputerNetworks/Main.dm
+END
+Computernet.dm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/60/baystation/code/game/machinery/ComputerNetworks/Computernet.dm
+END
+PrepareRoutingTable.dm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/60/baystation/code/game/machinery/ComputerNetworks/PrepareRoutingTable.dm
+END
+WirelessAP.dm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/60/baystation/code/game/machinery/ComputerNetworks/WirelessAP.dm
+END
+ComputerCabling.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/95/baystation/code/game/machinery/ComputerNetworks/ComputerCabling.dm
+END
+Sniffers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/60/baystation/code/game/machinery/ComputerNetworks/Sniffers.dm
+END

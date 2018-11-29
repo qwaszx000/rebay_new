@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/78/baystation/code/WorkInProgress/recycling
+END
+conveyor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/baystation/code/WorkInProgress/recycling/conveyor.dm
+END
+disposal-construction.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/78/baystation/code/WorkInProgress/recycling/disposal-construction.dm
+END
+scrap.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/WorkInProgress/recycling/scrap.dm
+END
+disposal.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/baystation/code/WorkInProgress/recycling/disposal.dm
+END

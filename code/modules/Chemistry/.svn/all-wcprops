@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/73/baystation/code/modules/Chemistry
+END
+ChemistrySystemIVTest.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/60/baystation/code/modules/Chemistry/ChemistrySystemIVTest.dm
+END
+ChemistrySystemIV.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/baystation/code/modules/Chemistry/ChemistrySystemIV.dm
+END
+Chemistry-Reagents.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/64/baystation/code/modules/Chemistry/Chemistry-Reagents.dm
+END
+Chemistry-Recipes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/baystation/code/modules/Chemistry/Chemistry-Recipes.dm
+END
+Chemistry-Holder.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/baystation/code/modules/Chemistry/Chemistry-Holder.dm
+END
+Chemistry-Readme.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/baystation/code/modules/Chemistry/Chemistry-Readme.dm
+END
+Chemistry-Machinery.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/baystation/code/modules/Chemistry/Chemistry-Machinery.dm
+END
+Chemistry-Tools.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/baystation/code/modules/Chemistry/Chemistry-Tools.dm
+END

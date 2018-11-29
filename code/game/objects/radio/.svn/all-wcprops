@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/73/baystation/code/game/objects/radio
+END
+signaler.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/baystation/code/game/objects/radio/signaler.dm
+END
+beacon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/60/baystation/code/game/objects/radio/beacon.dm
+END
+electropack.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/baystation/code/game/objects/radio/electropack.dm
+END
+radio.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/baystation/code/game/objects/radio/radio.dm
+END
+intercom.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/game/objects/radio/intercom.dm
+END

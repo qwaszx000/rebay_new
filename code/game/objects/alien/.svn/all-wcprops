@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/60/baystation/code/game/objects/alien
+END
+weeds.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/game/objects/alien/weeds.dm
+END
+defines.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/game/objects/alien/defines.dm
+END
+facehugger.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/objects/alien/facehugger.dm
+END
+egg.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/objects/alien/egg.dm
+END

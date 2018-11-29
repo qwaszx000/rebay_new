@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/95/baystation/code/defines
+END
+hub.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/64/baystation/code/defines/hub.dm
+END
+client.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/baystation/code/defines/client.dm
+END
+global.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/73/baystation/code/defines/global.dm
+END
+turf.dm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/73/baystation/code/defines/turf.dm
+END
+atom.dm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/60/baystation/code/defines/atom.dm
+END
+world.dm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/60/baystation/code/defines/world.dm
+END
+obj.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/64/baystation/code/defines/obj.dm
+END

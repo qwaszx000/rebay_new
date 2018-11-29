@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/66/baystation/code/modules/admin/verbs
+END
+deadsay.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/deadsay.dm
+END
+checkhandcuff.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/checkhandcuff.dm
+END
+ticklag.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/ticklag.dm
+END
+playsound.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/playsound.dm
+END
+modifyvariables.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/modifyvariables.dm
+END
+adminhelp.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/66/baystation/code/modules/admin/verbs/adminhelp.dm
+END
+switch.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/switch.dm
+END
+randomverbs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/66/baystation/code/modules/admin/verbs/randomverbs.dm
+END
+changetemperature.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/changetemperature.dm
+END
+adminjump.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/adminjump.dm
+END
+adminsay.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/adminsay.dm
+END
+debug.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/debug.dm
+END
+diagnostics.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/60/baystation/code/modules/admin/verbs/diagnostics.dm
+END

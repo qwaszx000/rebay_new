@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/78/baystation/code/game/objects/devices
+END
+proxy_sensor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/baystation/code/game/objects/devices/proxy_sensor.dm
+END
+scanners.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/objects/devices/scanners.dm
+END
+geneanalyser.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/baystation/code/game/objects/devices/geneanalyser.dm
+END
+taperecorder.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/69/baystation/code/game/objects/devices/taperecorder.dm
+END
+timer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/game/objects/devices/timer.dm
+END
+powersink.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/game/objects/devices/powersink.dm
+END
+flashlight.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/60/baystation/code/game/objects/devices/flashlight.dm
+END
+chameleonproj.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/baystation/code/game/objects/devices/chameleonproj.dm
+END
+infra_sensor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/78/baystation/code/game/objects/devices/infra_sensor.dm
+END
+multitool.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/game/objects/devices/multitool.dm
+END
+shields.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/objects/devices/shields.dm
+END
+flash.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/game/objects/devices/flash.dm
+END
+device.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/game/objects/devices/device.dm
+END
+igniter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/objects/devices/igniter.dm
+END
+PDA_old.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/64/baystation/code/game/objects/devices/PDA_old.dm
+END
+PDA.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/game/objects/devices/PDA.dm
+END

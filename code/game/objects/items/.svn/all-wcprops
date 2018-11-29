@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/95/baystation/code/game/objects/items
+END
+helper_procs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/baystation/code/game/objects/items/helper_procs.dm
+END
+clothing.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/79/baystation/code/game/objects/items/clothing.dm
+END
+food.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/60/baystation/code/game/objects/items/food.dm
+END
+assemblies.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/objects/items/assemblies.dm
+END
+robot_parts.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/baystation/code/game/objects/items/robot_parts.dm
+END
+item.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/60/baystation/code/game/objects/items/item.dm
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/95/baystation/code/game/objects
+END
+structures.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/60/baystation/code/game/objects/structures.dm
+END
+portals.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/game/objects/portals.dm
+END
+MultiZ.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/baystation/code/game/objects/MultiZ.dm
+END
+gibs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/60/baystation/code/game/objects/gibs.dm
+END
+kitchen.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/game/objects/kitchen.dm
+END
+policetape.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/60/baystation/code/game/objects/policetape.dm
+END
+assemblies.dm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/60/baystation/code/game/objects/assemblies.dm
+END
+noticeboard.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/64/baystation/code/game/objects/noticeboard.dm
+END
+tables_racks.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/69/baystation/code/game/objects/tables_racks.dm
+END
+tank.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/60/baystation/code/game/objects/tank.dm
+END
+blood.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/60/baystation/code/game/objects/blood.dm
+END
+effect_system.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/game/objects/effect_system.dm
+END
+stool.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/95/baystation/code/game/objects/stool.dm
+END
+death_commando_gear.dm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/60/baystation/code/game/objects/death_commando_gear.dm
+END
+displaycase.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/game/objects/displaycase.dm
+END
+window.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/78/baystation/code/game/objects/window.dm
+END
+cleaner.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/game/objects/cleaner.dm
+END
+object_procs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/60/baystation/code/game/objects/object_procs.dm
+END
+weapons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/game/objects/weapons.dm
+END
+closets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/game/objects/closets.dm
+END
+grille.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/baystation/code/game/objects/grille.dm
+END
+secure_area.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/game/objects/secure_area.dm
+END
+bomb.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/60/baystation/code/game/objects/bomb.dm
+END
+explosion.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/64/baystation/code/game/objects/explosion.dm
+END
+jetpack.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/game/objects/jetpack.dm
+END
+items.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/64/baystation/code/game/objects/items.dm
+END
+secure_closets.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/game/objects/secure_closets.dm
+END

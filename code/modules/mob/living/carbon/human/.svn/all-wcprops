@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/95/baystation/code/modules/mob/living/carbon/human
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/human/say.dm
+END
+savefile.dm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/human/savefile.dm
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/95/baystation/code/modules/mob/living/carbon/human/hud.dm
+END
+whisper.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/64/baystation/code/modules/mob/living/carbon/human/whisper.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/95/baystation/code/modules/mob/living/carbon/human/death.dm
+END
+limited.dm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/human/limited.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/64/baystation/code/modules/mob/living/carbon/human/emote.dm
+END
+ai.dm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/human/ai.dm
+END

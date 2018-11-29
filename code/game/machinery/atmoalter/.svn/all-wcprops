@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/73/baystation/code/game/machinery/atmoalter
+END
+pump.dm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/baystation/code/game/machinery/atmoalter/pump.dm
+END
+scrubber.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/baystation/code/game/machinery/atmoalter/scrubber.dm
+END
+canister.dm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/baystation/code/game/machinery/atmoalter/canister.dm
+END
+portable_atmospherics.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/60/baystation/code/game/machinery/atmoalter/portable_atmospherics.dm
+END
+meter.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/baystation/code/game/machinery/atmoalter/meter.dm
+END

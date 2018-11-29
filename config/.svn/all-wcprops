@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/95/baystation/config
+END
+db_config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/60/baystation/config/db_config.txt
+END
+rules.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/60/baystation/config/rules.html
+END
+motd-noauth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/baystation/config/motd-noauth.txt
+END
+motd-auth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/60/baystation/config/motd-auth.txt
+END
+motd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/60/baystation/config/motd.txt
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/95/baystation/config/config.txt
+END

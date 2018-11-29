@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/64/baystation/code/game/verbs
+END
+AI_status.dm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/baystation/code/game/verbs/AI_status.dm
+END
+who.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/64/baystation/code/game/verbs/who.dm
+END
+ooc.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/baystation/code/game/verbs/ooc.dm
+END
+afk.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/baystation/code/game/verbs/afk.dm
+END
+toggleadminsound.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/game/verbs/toggleadminsound.dm
+END
+begin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/baystation/code/game/verbs/begin.dm
+END
+suicide.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/60/baystation/code/game/verbs/suicide.dm
+END
+ai_lockdown.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/game/verbs/ai_lockdown.dm
+END

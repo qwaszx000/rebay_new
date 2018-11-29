@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/73/baystation/code/game/machinery/bots
+END
+lightbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/game/machinery/bots/lightbot.dm
+END
+secbot_old.dm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/baystation/code/game/machinery/bots/secbot_old.dm
+END
+secbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/baystation/code/game/machinery/bots/secbot.dm
+END
+floorbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/baystation/code/game/machinery/bots/floorbot.dm
+END
+bots.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/game/machinery/bots/bots.dm
+END
+mulebot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/game/machinery/bots/mulebot.dm
+END
+cleanbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/64/baystation/code/game/machinery/bots/cleanbot.dm
+END
+medbot.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/64/baystation/code/game/machinery/bots/medbot.dm
+END

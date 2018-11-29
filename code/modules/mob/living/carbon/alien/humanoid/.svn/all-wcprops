@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/humanoid
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/humanoid/life.dm
+END
+powers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/humanoid/powers.dm
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/humanoid/hud.dm
+END
+humanoid.dm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/humanoid/humanoid.dm
+END
+death.dm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/humanoid/death.dm
+END

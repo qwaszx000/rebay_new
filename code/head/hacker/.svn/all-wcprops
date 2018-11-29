@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/60/baystation/code/head/hacker
+END
+scripting.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/baystation/code/head/hacker/scripting.dm
+END
+networking.dm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/baystation/code/head/hacker/networking.dm
+END
+laptop.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/60/baystation/code/head/hacker/laptop.dm
+END
+router.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/60/baystation/code/head/hacker/router.dm
+END

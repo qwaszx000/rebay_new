@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien
+END
+say.dm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/say.dm
+END
+life.dm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/life.dm
+END
+alien.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/alien.dm
+END
+emote.dm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/60/baystation/code/modules/mob/living/carbon/alien/emote.dm
+END

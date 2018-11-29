@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/95/baystation/code/defines/procs
+END
+command_alert.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/defines/procs/command_alert.dm
+END
+logging.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/baystation/code/defines/procs/logging.dm
+END
+religion_name.dm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/baystation/code/defines/procs/religion_name.dm
+END
+AStar.dm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/78/baystation/code/defines/procs/AStar.dm
+END
+church_name.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/60/baystation/code/defines/procs/church_name.dm
+END
+gamehelpers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/60/baystation/code/defines/procs/gamehelpers.dm
+END
+command_name.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/baystation/code/defines/procs/command_name.dm
+END
+navigation.dm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/baystation/code/defines/procs/navigation.dm
+END
+station_name.dm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/64/baystation/code/defines/procs/station_name.dm
+END
+helpers.dm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/95/baystation/code/defines/procs/helpers.dm
+END
+syndicate_name.dm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/baystation/code/defines/procs/syndicate_name.dm
+END
