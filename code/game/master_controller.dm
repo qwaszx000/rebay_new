@@ -61,33 +61,45 @@ datum/controller/game_controller
 			diary << "Air controller initialized at [time2text(world.timeofday, "hh:mm.ss")]. It took [(world.timeofday - start_airmaster)/10] seconds."
 
 		plmaster = new /obj/overlay(  )
-		plmaster.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+		plmaster.icon = 'icons/effects/tile_effects.dmi'
 		plmaster.icon_state = "plasma"
 		plmaster.layer = FLY_LAYER
 		plmaster.mouse_opacity = 0
 
 		slmaster = new /obj/overlay(  )
-		slmaster.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+		slmaster.icon = 'icons/effects/tile_effects.dmi'
 		slmaster.icon_state = "sleeping_agent"
 		slmaster.layer = FLY_LAYER
 		slmaster.mouse_opacity = 0
 
 		world.update_status()
+		diary << "world status updated\n"
 
+		#ifdef SQL_DB_T
 		ClearTempbans()
+		diary << "TempBans cleared!\n"
+		#endif
 
 		setup_objects()
+		diary << "objects setuped"
 
 		setupgenetics()
+		diary << "genetics setuped"
 
 		setupmining() //mining setup
+		diary << "mining setuped"
 
 		setuptitles()
+		diary << "titles setuped"
 		SetupAnomalies()
+		diary << "anomalies setuped"
 	//	tgrid.Setup()
 		setupdooralarms() // Added by Strumpetplaya - Alarm Change
+		diary << "door alarms setuped"
+		#ifdef SQL_DB_T
 		BOOKHAND = new()
 		world << "\red \b Setting up the book system..."
+		#endif
 
 	// main_shuttle = new /datum/shuttle_controller/main_shuttle()
 	// Handled by datum declerations now in the shuttle controller file

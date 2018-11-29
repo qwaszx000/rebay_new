@@ -17,10 +17,14 @@
 	auth_motd = file2text("config/motd-auth.txt")
 	no_auth_motd = file2text("config/motd-noauth.txt")
 
+	diary << "motd loaded!\n"
+
 /world/proc/load_rules()
 	rules = file2text("config/rules.html")
 	if (!rules)
 		rules = "<html><head><title>Rules</title><body>There are no rules! Go nuts!</body></html>"
+
+	diary << "rules loaded!\n"
 
 /world/proc/load_admins()
 /*
@@ -43,14 +47,18 @@
 				admins[m_key] = a_lev
 				diary << ("ADMIN: [m_key] = [a_lev]")
 */
+	#ifdef SQL_DB_T
 	var/DBQuery/my_query = dbcon.NewQuery("SELECT * FROM `admins`")
+	diary << "trying to load admins\n"
 	if(my_query.Execute())
+		diary << "loading admin list\n"
 		while(my_query.NextRow())
 			var/list/row  = my_query.GetRowData()
 			var/rank = world.convert_ranks(text2num(row["rank"]))
 			check_diary()
 			diary << ("ADMIN: [row["ckey"]] = [rank]")
 			admins[row["ckey"]] = rank
+	#endif
 	if (!admins)
 		check_diary()
 		diary << "Failed to load admins \n"

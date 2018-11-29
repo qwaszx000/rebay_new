@@ -4,7 +4,9 @@
 
 // BEGIN_INTERNALS
 // END_INTERNALS
-
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
 
 // BEGIN_PREFERENCES
 #define DEBUG
@@ -18,7 +20,6 @@
 #include "code\stylesheet.dm"
 #include "code\TakePicture.dm"
 #include "code\Ticklag.dm"
-#include "code\world_dbg.dm"
 #include "code\Animus\medals.dm"
 #include "code\Aryn\Airflow.dm"
 #include "code\Aryn\Atmos-ZAS3-Zones.dm"
@@ -638,6 +639,3 @@
 #include "interface\skin.dmf"
 #include "maps\NSV_Luna.dmm"
 // END_INCLUDE
-// BEGIN_FILE_DIR
-#define FILE_DIR .
-// END_FILE_DIR
