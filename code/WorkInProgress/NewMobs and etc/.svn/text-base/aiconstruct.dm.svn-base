@@ -1,7 +1,7 @@
 obj/machinery/aiconstruct
 	name = "AI CONSTRUCT"
 	var/buildstate = 0
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/mob/mob.dmi'
 	icon_state = "ai_new0"
 	var/mob/bb
 obj/machinery/aiconstruct/attack_hand(mob/user)

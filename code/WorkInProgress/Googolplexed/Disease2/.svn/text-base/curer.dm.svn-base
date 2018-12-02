@@ -1,6 +1,6 @@
 /obj/machinery/computer/curer
 	name = "Cure Research Machine"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/computer.dmi'
 	icon_state = "curer"
 	brightnessred = 0
 	brightnessgreen = 2

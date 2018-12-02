@@ -1,5 +1,5 @@
 /obj/cabling/shield
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/shield_cable.dmi'
 
 	name = "Shielding Cable"
 	layer = 2.4

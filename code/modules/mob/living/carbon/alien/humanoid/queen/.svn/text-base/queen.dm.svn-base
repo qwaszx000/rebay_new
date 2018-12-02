@@ -5,8 +5,8 @@
 
 /mob/living/carbon/alien/humanoid/queen/New()
 	..()
-	stand_icon = new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "queen_s")
-	lying_icon = new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "queen_l")
+	stand_icon = new /icon('icons/mob/alien.dmi', "queen_s")
+	lying_icon = new /icon('icons/mob/alien.dmi', "queen_l")
 	icon = stand_icon
 
 //Queen verbs

@@ -3,7 +3,6 @@ var/ticker_debug
 var/updatetime
 var/global/gametime = 0
 var/global/gametime_last_updated
-
 datum/controller/game_controller
 	var/processing = 1
 	//var/lastannounce = 0
@@ -74,33 +73,21 @@ datum/controller/game_controller
 		slmaster.mouse_opacity = 0
 
 		world.update_status()
-		diary << "world status updated\n"
 
-		#ifdef SQL_DB_T
 		ClearTempbans()
-		diary << "TempBans cleared!\n"
-		#endif
 
 		setup_objects()
-		diary << "objects setuped"
 
 		setupgenetics()
-		diary << "genetics setuped"
 
 		setupmining() //mining setup
-		diary << "mining setuped"
 
 		setuptitles()
-		diary << "titles setuped"
 		SetupAnomalies()
-		diary << "anomalies setuped"
 	//	tgrid.Setup()
 		setupdooralarms() // Added by Strumpetplaya - Alarm Change
-		diary << "door alarms setuped"
-		#ifdef SQL_DB_T
 		BOOKHAND = new()
 		world << "\red \b Setting up the book system..."
-		#endif
 
 	// main_shuttle = new /datum/shuttle_controller/main_shuttle()
 	// Handled by datum declerations now in the shuttle controller file

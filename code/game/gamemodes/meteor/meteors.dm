@@ -76,7 +76,7 @@
 
 /obj/meteor
 	name = "meteor"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/meteor.dmi'
 	icon_state = "flaming"
 	density = 1
 	anchored = 1.0

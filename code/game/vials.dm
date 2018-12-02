@@ -14,7 +14,7 @@
 
 /obj/item/weapon/vial
 	name = "glass vial"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	desc = "a glass vial filled with a strange liquid"
 	icon_state = "vialgreen"
 	item_state = "vialgreen"
@@ -26,14 +26,14 @@
 
 /obj/item/weapon/vial/green
 	name = "glass vial"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	desc = "a glass vial filled with a strange green liquid"
 	icon_state = "vialgreen"
 	item_state = "vialgreen"
 
 /obj/item/weapon/vial/blue
 	name = "glass vial"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	desc = "a glass vial filled with a shimmering blue liquid"
 	icon_state = "vialblue"
 	item_state = "vialblue"
@@ -86,7 +86,7 @@
 	O2.name = "broken bits of glass"
 	O2.density = 0
 	O2.anchored = 1
-	O2.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	O2.icon = 'icons/obj/objects.dmi'
 	O2.icon_state = "shards"
 	for(var/mob/living/carbon/human/H in view(5, sourceloc))
 		if(!H.virus) H.contract_disease(new /datum/disease/gbs)
@@ -119,7 +119,7 @@
 	O2.name = "broken bits of glass"
 	O2.density = 0
 	O2.anchored = 1
-	O2.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	O2.icon = 'icons/obj/objects.dmi'
 	O2.icon_state = "shards"
 
 	liquify(user)
@@ -148,7 +148,7 @@
 	O2.name = "broken bits of glass"
 	O2.density = 0
 	O2.anchored = 1
-	O2.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	O2.icon = 'icons/obj/objects.dmi'
 	O2.icon_state = "shards"
 
 	for(var/mob/living/carbon/human/H in view(1, sourceloc))

@@ -3,7 +3,7 @@
 /obj/item/weapon/smokebomb
 	desc = "It is set to detonate in 2 seconds."
 	name = "smoke bomb"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/grenade.dmi'
 	icon_state = "flashbang"
 	var/state = null
 	var/det_time = 20.0
@@ -17,7 +17,7 @@
 /obj/item/weapon/incendiarygrenade
 	desc = "It is set to detonate in 3 seconds."
 	name = "incendiary grenade"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/grenade.dmi'
 	icon_state = "flashbang"
 	var/state = null
 	var/firestrength = 100
@@ -31,7 +31,7 @@
 /obj/item/weapon/mustardbomb
 	desc = "It is set to detonate in 4 seconds."
 	name = "mustard gas bomb"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/grenade.dmi'
 	icon_state = "flashbang"
 	var/state = null
 	var/det_time = 40.0
@@ -313,7 +313,7 @@
 	var/locked = 1
 	req_access = list(access_janitor)
 	desc = "A compact incineration device, used to dispose of garbage."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/stationobjs.dmi'
 	icon_state = "trashcan"
 	item_state = "syringe_kit"
 

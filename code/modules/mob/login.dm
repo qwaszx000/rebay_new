@@ -1,5 +1,4 @@
 /mob/Login()
-	diary << "login!\n"
 	log_access("Login: [key_name(src)] from [client.address ? client.address : "localhost"]")
 	lastKnownIP = client.address
 	computer_id = client.computer_id

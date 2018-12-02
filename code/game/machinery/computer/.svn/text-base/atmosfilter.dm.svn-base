@@ -16,7 +16,7 @@
 	interact(user)
 /obj/machinery/computer/atmosphere/monitor/
 	name = "Filter Adjuster"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/computer.dmi'
 	icon_state = "gas"
 /obj/machinery/computer/atmosphere/monitor/proc/interact(mob/user)
 

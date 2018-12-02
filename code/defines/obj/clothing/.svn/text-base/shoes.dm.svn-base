@@ -1,6 +1,6 @@
 /obj/item/clothing/shoes
 	name = "shoes"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/clothing/shoes.dmi'
 	var/chained = 0
 	body_parts_covered = FEET
 	protective_temperature = 500

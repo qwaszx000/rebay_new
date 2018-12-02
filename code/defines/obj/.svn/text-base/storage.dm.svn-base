@@ -1,5 +1,5 @@
 /obj/item/weapon/storage
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	name = "storage"
 	var/list/can_hold = new/list()
 	var/obj/screen/storage/boxes = null
@@ -37,7 +37,7 @@
 /obj/item/weapon/storage/pill_bottle
 	name = "Pill bottle"
 	icon_state = "pill_canister"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	item_state = "contsolid"
 	can_hold = list("/obj/item/weapon/reagent_containers/pill")
 	w_class = 1.0
@@ -162,7 +162,7 @@
 
 /obj/item/weapon/storage/toolbox
 	name = "toolbox"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "red"
 	item_state = "toolbox_red"
 	flags = FPRINT | TABLEPASS| CONDUCT

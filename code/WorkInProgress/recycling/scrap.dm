@@ -5,7 +5,7 @@
 
 /obj/item/scrap
 	name = "scrap"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/scrap.dmi'
 	icon_state = "1metal0"
 	item_state = "scrap-metal"
 	desc = "A piece of scrap"

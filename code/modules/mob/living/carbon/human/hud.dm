@@ -77,7 +77,7 @@
 
 	// station explosion cinematic
 	station_explosion = new h_type( src )
-	station_explosion.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	station_explosion.icon = 'icons/effects/station_explosion.dmi'
 	station_explosion.icon_state = "start"
 	station_explosion.layer = 20
 	station_explosion.mouse_opacity = 0
@@ -88,7 +88,7 @@
 	//usingmask effect from tgstation
 	using = new src.h_type( src )
 	using.name = "using helmet"
-	using.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	using.icon = 'icons/mob/screen_wmask.dmi'
 	using.icon_state = "dither50"
 	using.screen_loc = "3,3 to 5,13"
 	using.layer = 17
@@ -97,7 +97,7 @@
 
 	using = new src.h_type( src )
 	using.name = null
-	using.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	using.icon = 'icons/mob/screen_wmask.dmi'
 	using.icon_state = "dither50"
 	using.screen_loc = "5,3 to 10,5"
 	using.layer = 17
@@ -106,7 +106,7 @@
 
 	using = new src.h_type( src )
 	using.name = null
-	using.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	using.icon = 'icons/mob/screen_wmask.dmi'
 	using.icon_state = "dither50"
 	using.screen_loc = "6,11 to 10,13"
 	using.layer = 17
@@ -115,7 +115,7 @@
 
 	using = new src.h_type( src )
 	using.name = null
-	using.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	using.icon = 'icons/mob/screen_wmask.dmi'
 	using.icon_state = "dither50"
 	using.screen_loc = "11,3 to 13,13"
 	using.layer = 17
@@ -124,7 +124,7 @@
 
 	using = new src.h_type( src )
 	using.name = null
-	using.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	using.icon = 'icons/mob/screen_wmask.dmi'
 	using.icon_state = "black"
 	using.screen_loc = "1,1 to 15,2"
 	using.layer = 17
@@ -133,7 +133,7 @@
 
 	using = new src.h_type( src )
 	using.name = null
-	using.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	using.icon = 'icons/mob/screen_wmask.dmi'
 	using.icon_state = "black"
 	using.screen_loc = "1,3 to 2,15"
 	using.layer = 17
@@ -142,7 +142,7 @@
 
 	using = new src.h_type( src )
 	using.name = null
-	using.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	using.icon = 'icons/mob/screen_wmask.dmi'
 	using.icon_state = "black"
 	using.screen_loc = "14,3 to 15,15"
 	using.layer = 17
@@ -151,7 +151,7 @@
 
 	using = new src.h_type( src )
 	using.name = null
-	using.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	using.icon = 'icons/mob/screen_wmask.dmi'
 	using.icon_state = "black"
 	using.screen_loc = "3,14 to 13,15"
 	using.layer = 17
@@ -490,7 +490,7 @@
 */
 
 	mymob.toxin = new /obj/screen( null )
-	mymob.toxin.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	mymob.toxin.icon = 'icons/mob/screen1.dmi'
 	mymob.toxin.icon_state = "tox0"
 	mymob.toxin.name = "toxin"
 	mymob.toxin.screen_loc = ui_toxin
@@ -645,7 +645,7 @@
 
 	mymob.zone_sel = new /obj/screen/zone_sel( null )
 	mymob.zone_sel.overlays = null
-	mymob.zone_sel.overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[]", mymob.zone_sel.selecting))
+	mymob.zone_sel.overlays += image("icon" = 'icons/mob/zone_sel.dmi', "icon_state" = text("[]", mymob.zone_sel.selecting))
 
 	mymob.client.screen = null
 

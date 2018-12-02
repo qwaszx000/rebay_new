@@ -119,7 +119,7 @@
 	name = "Vending Charge"
 	var/charge_amt = 10
 	var/charge_type = "generic"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/vending.dmi'
 	icon_state = "generic-charge"
 
 /obj/item/weapon/vending_charge/medical

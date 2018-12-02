@@ -1,7 +1,7 @@
 /obj/machinery/bot/lightbot
 	name = "LightBot"
 	desc = "A little light replace robot, he looks so gloomy!"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/aibots.dmi'
 	icon_state = "floorbot0"
 	layer = 5.0
 	density = 0

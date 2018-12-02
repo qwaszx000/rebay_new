@@ -252,7 +252,7 @@ var/datum/travgrid/tgrid= new()
 
 /obj/machinery/computer/travel
 	name = "Helm Control"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/computer.dmi'
 	icon_state = "steering"
 	req_access = list(access_captain)
 	var/datum/travevent/ship/Luna/Luna

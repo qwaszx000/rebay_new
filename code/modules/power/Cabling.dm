@@ -1,5 +1,5 @@
 /obj/cabling/power
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/power_cond.dmi'
 
 	name = "Power Cable"
 

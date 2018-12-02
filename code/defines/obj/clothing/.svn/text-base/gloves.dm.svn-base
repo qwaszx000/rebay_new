@@ -1,6 +1,6 @@
 /obj/item/clothing/gloves
 	name = "gloves"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/clothing/gloves.dmi'
 	protective_temperature = 400
 	heat_transfer_coefficient = 0.25
 	w_class = 2.0

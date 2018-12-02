@@ -207,7 +207,7 @@ steam.start() -- spawns the effect
 ////////////////////////////
 /obj/effects/sparkels
 	name = "sparkel"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'//findback
+	icon = 'icons/obj/fireworks.dmi'//findback
 	icon_state = "sparkel"
 	var/amount = 6.0
 	anchored = 1.0
@@ -304,7 +304,7 @@ steam.start() -- spawns the effect
 	mouse_opacity = 0
 	var/amount = 6.0
 	//Remove this bit to use the old smoke
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/effects/96x96.dmi'
 	pixel_x = -32
 	pixel_y = -32
 
@@ -383,7 +383,7 @@ steam.start() -- spawns the effect
 	mouse_opacity = 0
 	var/amount = 6.0
 	//Remove this bit to use the old smoke
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/effects/96x96.dmi'
 	pixel_x = -32
 	pixel_y = -32
 

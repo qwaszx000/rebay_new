@@ -2,7 +2,7 @@
 
 /obj/item/clothing/head
 	name = "head"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/clothing/hats.dmi'
 	body_parts_covered = HEAD
 	var/list/allowed = list(/obj/item/weapon/pen)
 

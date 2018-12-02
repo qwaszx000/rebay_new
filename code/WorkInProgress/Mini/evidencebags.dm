@@ -1,7 +1,7 @@
 /obj/item/weapon/evidencebag
 	name = "evidence bag"
 	desc = "An empty evidence bag."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "evidence"
 
 /* buggy and stuff

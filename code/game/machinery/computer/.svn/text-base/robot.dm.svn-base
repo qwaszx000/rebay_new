@@ -1,6 +1,6 @@
 /obj/machinery/computer/robotics
 	name = "Robotics Control"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/computer.dmi'
 	icon_state = "robotics"
 	req_access = list(access_captain)
 	brightnessred = 0

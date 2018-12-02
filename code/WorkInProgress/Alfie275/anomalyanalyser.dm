@@ -1,6 +1,6 @@
 /obj/machinery/anomaly/anomalyanalyser
 	name = "Anomaly Analyser"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/virology.dmi'
 	icon_state = "analyser"
 	anchored = 1
 	density = 1
@@ -168,6 +168,6 @@
 
 /obj/item/weapon/anomalyfilter
 	name = "Spectral filter"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/items.dmi'
 	icon_state = "datadisk0"
 	var/effectname = null

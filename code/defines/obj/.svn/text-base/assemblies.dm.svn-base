@@ -1,6 +1,6 @@
 /obj/item/assembly
 	name = "assembly"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/assemblies.dmi'
 	item_state = "assembly"
 	var/status = 0.0
 	throwforce = 10

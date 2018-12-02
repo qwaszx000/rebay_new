@@ -1,6 +1,6 @@
 /obj/machinery/anomaly/anomalyharvester
 	name = "Anomaly Power Collector"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/virology.dmi'
 	icon_state = "analyser"
 	anchored = 1
 	density = 1

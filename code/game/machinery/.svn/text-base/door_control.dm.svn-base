@@ -1,6 +1,6 @@
 /obj/machinery/door_control
 	name = "Remote Door Control"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/stationobjs.dmi'
 	icon_state = "doorctrl00"
 	desc = "A remote control switch for a door."
 	var/icon_toggled = "doorctrl1"
@@ -85,7 +85,7 @@
 
 /obj/machinery/driver_button
 	name = "Mass Driver Button"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "launcherbtt"
 	desc = "A remote control switch for a Mass Driver."
 	var/id = null

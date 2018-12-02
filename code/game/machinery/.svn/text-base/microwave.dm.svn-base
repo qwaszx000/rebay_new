@@ -150,7 +150,7 @@
 
 /obj/machinery/microwave
 	name = "Microwave"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/kitchen.dmi'
 	icon_state = "mw"
 	density = 1
 	anchored = 1

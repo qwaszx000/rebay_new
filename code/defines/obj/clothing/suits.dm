@@ -1,7 +1,7 @@
 // SUITS
 
 /obj/item/clothing/suit
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/clothing/suits.dmi'
 	name = "suit"
 	var/fire_resist = T0C+100
 	flags = FPRINT | TABLEPASS

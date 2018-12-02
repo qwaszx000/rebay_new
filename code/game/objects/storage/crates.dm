@@ -1,7 +1,7 @@
 /obj/crate
 	desc = "A crate."
 	name = "Crate"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "crate"
 	density = 1
 	var/openicon = "crateopen"
@@ -16,7 +16,7 @@
 /obj/crate/internals
 	desc = "A internals crate."
 	name = "Internals crate"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "o2crate"
 	density = 1
 	openicon = "o2crateopen"
@@ -25,7 +25,7 @@
 /obj/crate/medical
 	desc = "A medical crate."
 	name = "Medical crate"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "medicalcrate"
 	density = 1
 	openicon = "medicalcrateopen"
@@ -34,7 +34,7 @@
 /obj/crate/rcd
 	desc = "A crate for the storage of the RCD."
 	name = "RCD crate"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "crate"
 	density = 1
 	openicon = "crateopen"
@@ -43,7 +43,7 @@
 /obj/crate/engineering
 	desc = "A crate for the storage of engineering equipment."
 	name = "Engineering crate"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "crate"
 	density = 1
 	openicon = "crateopen"
@@ -51,7 +51,7 @@
 /obj/crate/engineeringsuits
 	desc = "A crate for the storage of engineering space suits."
 	name = "Engineering crate"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "crate"
 	density = 1
 	openicon = "crateopen"
@@ -60,7 +60,7 @@
 /obj/crate/freezer
 	desc = "A freezer."
 	name = "Freezer"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "freezer"
 	density = 1
 	openicon = "freezeropen"
@@ -69,7 +69,7 @@
 /obj/crate/bin
 	desc = "A large bin."
 	name = "Large bin"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "largebin"
 	density = 1
 	openicon = "largebinopen"
@@ -78,7 +78,7 @@
 /obj/crate/secure/weapon
 	desc = "A secure weapons crate."
 	name = "Weapons crate"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "weaponcrate"
 	density = 1
 	openicon = "weaponcrateopen"
@@ -87,7 +87,7 @@
 /obj/crate/secure/plasma
 	desc = "A secure plasma crate."
 	name = "Plasma crate"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "plasmacrate"
 	density = 1
 	openicon = "plasmacrateopen"
@@ -97,7 +97,7 @@
 /obj/crate/secure/gear
 	desc = "A secure gear crate."
 	name = "Gear crate"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "secgearcrate"
 	density = 1
 	openicon = "secgearcrateopen"

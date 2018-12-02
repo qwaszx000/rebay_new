@@ -8,7 +8,7 @@
 		if ("rustle") soundin = pick('sound/misc/rustle1.ogg','sound/misc/rustle2.ogg','sound/misc/rustle3.ogg','sound/misc/rustle4.ogg','sound/misc/rustle5.ogg')
 		if ("punch") soundin = pick('sound/weapons/punch1.ogg','sound/weapons/punch2.ogg','sound/weapons/punch3.ogg','sound/weapons/punch4.ogg')
 		if ("clownstep") soundin = pick('sound/misc/clownstep1.ogg','sound/misc/clownstep2.ogg')
-		//if ("swing_hit") soundin = pick('sound/weapons/genhit1.ogg', 'sound/weapons/genhit2.ogg', 'sound/weapons/genhit3.ogg')
+		if ("swing_hit") soundin = pick('sound/weapons/genhit1.ogg', 'sound/weapons/genhit2.ogg', 'sound/weapons/genhit3.ogg')
 
 	var/sound/S = sound(soundin)
 	S.wait = 0 //No queue
@@ -34,7 +34,7 @@
 		if ("rustle") soundin = pick('sound/misc/rustle1.ogg','sound/misc/rustle2.ogg','sound/misc/rustle3.ogg','sound/misc/rustle4.ogg','sound/misc/rustle5.ogg')
 		if ("punch") soundin = pick('sound/weapons/punch1.ogg','sound/weapons/punch2.ogg','sound/weapons/punch3.ogg','sound/weapons/punch4.ogg')
 		if ("clownstep") soundin = pick('sound/misc/clownstep1.ogg','sound/misc/clownstep2.ogg')
-		//if ("swing_hit") soundin = pick('sound/weapons/genhit1.ogg', 'sound/weapons/genhit2.ogg', 'sound/weapons/genhit3.ogg')
+		if ("swing_hit") soundin = pick('sound/weapons/genhit1.ogg', 'sound/weapons/genhit2.ogg', 'sound/weapons/genhit3.ogg')
 
 	var/sound/S = sound(soundin)
 	S.wait = 0 //No queue

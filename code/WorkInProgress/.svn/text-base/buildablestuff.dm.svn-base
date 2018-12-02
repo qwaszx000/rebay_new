@@ -1,6 +1,6 @@
 /obj/item/weapon/photon_manipulator
 	name = "Photon Manipulator"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/device.dmi'
 	icon_state = "shield0"
 
 

@@ -1,6 +1,6 @@
 /obj/item/weapon/dnainjector
 	name = "DNA-Injector"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/items.dmi'
 	icon_state = "dnainjector"
 	var/dnatype = null
 	var/dna = null

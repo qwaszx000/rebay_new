@@ -4,7 +4,7 @@
 /obj/machinery/shielding/capacitor
 	name = "Shielding Capacitor"
 	desc = "A storage device for shield energy"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/machines/shieldgen.dmi'
 	icon_state = "cap"
 	anchored = 1
 	density = 1
@@ -43,7 +43,7 @@
 /obj/machinery/shielding/capacitor/proc/updateicon()
 	clearoverlays()
 	icon_state = "cap[stat & (NOPOWER|BROKEN) ? "-p" : ""]"
-	addoverlay(image('icons/Uristqwerty/food_processor_placeholder.dmi', "c[round(charge * 5 / maxcharge)]"))
+	addoverlay(image('icons/obj/machines/shieldgen.dmi', "c[round(charge * 5 / maxcharge)]"))
 	if(generator && (!generator.OperatingMode || generator.stat))
-		addoverlay(image('icons/Uristqwerty/food_processor_placeholder.dmi', "cap-o"))
+		addoverlay(image('icons/obj/machines/shieldgen.dmi', "cap-o"))
 	return

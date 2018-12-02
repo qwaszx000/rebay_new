@@ -29,7 +29,7 @@ proc/explosion(turf/epicenter, devastation_range, heavy_impact_range, light_impa
 
 
 		//NEW EXPLOSION CODE - NICER (3D TOO!!) BLASTS
-		//epicenter.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "epicenter")
+		//epicenter.overlays += image('icons/obj/status_display.dmi', "epicenter")
 
 		var/list/fillqueue = list( )
 		var/list/floordist = list( )
@@ -121,14 +121,14 @@ proc/explosion(turf/epicenter, devastation_range, heavy_impact_range, light_impa
 					checked += U
 					floordist[U] = newdist
 
-				//T.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "black")
+				//T.overlays += image('icons/obj/status_display.dmi', "black")
 
 
 		del D
 
 		//for(var/turf/T in detonate)
-		//	T.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "red")
-		//	var/image/I = image('icons/Uristqwerty/food_processor_placeholder.dmi', "[detdists[T]]")
+		//	T.overlays += image('icons/obj/status_display.dmi', "red")
+		//	var/image/I = image('icons/obj/status_display.dmi', "[detdists[T]]")
 		//	I.pixel_x = 1
 		//	I.pixel_y = -1
 		//	T.overlays += I

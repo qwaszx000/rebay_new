@@ -127,7 +127,7 @@
 		invisibility = 0
 
 	if (alien_invis)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = "shield", "layer" = MOB_LAYER)
+		overlays += image("icon" = 'icons/mob/mob.dmi', "icon_state" = "shield", "layer" = MOB_LAYER)
 
 	for (var/mob/M in viewers(1, src))
 		if ((M.client && M.machine == src))

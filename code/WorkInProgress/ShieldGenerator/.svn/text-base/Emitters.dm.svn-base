@@ -8,7 +8,7 @@
 //
 
 /obj/machinery/shielding/emitter
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/machines/shieldgen.dmi'
 	anchored = 1
 	level = 1
 	var/online = 0

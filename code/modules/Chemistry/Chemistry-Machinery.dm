@@ -6,7 +6,7 @@
 	name = "chem dispenser"
 	density = 1
 	anchored = 1
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "dispenser"
 	var/energy = 10
 	//var/max_energy = 25
@@ -125,7 +125,7 @@
 	density = 1
 	anchored = 1
 	layer = 2.5
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "mixer0"
 	var/beaker = null
 

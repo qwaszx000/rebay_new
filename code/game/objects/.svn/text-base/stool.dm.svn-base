@@ -129,7 +129,7 @@
 /obj/stool/chair/e_chair/New()
 
 	src.overl = new /atom/movable/overlay( src.loc )
-	src.overl.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	src.overl.icon = 'icons/obj/objects.dmi'
 	src.overl.icon_state = "e_chairo0"
 	src.overl.layer = 5
 	src.overl.name = "electrified chair"
@@ -276,7 +276,7 @@
 
 /obj/stool/bed/roller
 	name = "stretcher"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/rollerbed.dmi'
 	icon_state = "down"
 	anchored = 0
 

@@ -1,7 +1,7 @@
 /obj/machinery/washer
 	name = "Laundromat"
 	desc = "Cleans stuff"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/washer.dmi'
 	icon_state = "land01"
 	density = 1
 	opacity = 0

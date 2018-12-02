@@ -8,7 +8,7 @@
 /obj/machinery/party/turntable
 	name = "turntable"
 	desc = "A turntable used for parties and shit."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/effects/lasers2.dmi'
 	icon_state = "turntable"
 	var/playing = 0
 	anchored = 1
@@ -16,7 +16,7 @@
 /obj/machinery/party/mixer
 	name = "mixer"
 	desc = "A mixing board for mixing music"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/effects/lasers2.dmi'
 	icon_state = "mixer"
 	anchored = 1
 
@@ -157,7 +157,7 @@
 /obj/machinery/party/lasermachine
 	name = "laser machine"
 	desc = "A laser machine that shoots lasers."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/effects/lasers2.dmi'
 	icon_state = "lasermachine"
 	anchored = 1
 	var/mirrored = 0
@@ -165,7 +165,7 @@
 /obj/effects/laser
 	name = "laser"
 	desc = "A laser..."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/effects/lasers2.dmi'
 	icon_state = "laserred1"
 	anchored = 1
 	layer = 4

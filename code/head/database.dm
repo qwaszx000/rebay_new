@@ -2,7 +2,7 @@
 /obj/machinery/computer/database/
 	name = "Employee Database"
 	var/list/db = list()
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/washer.dmi'
 	icon_state = "land01"
 /obj/machinery/computer/database/proc/addentry(var/datum/data/row/R , mob/user)
 	if(!R)
@@ -42,7 +42,7 @@ datum/data/row/employee
 	var/addedby = "no"
 /obj/machinery/computer/test
 	name = "test"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/washer.dmi'
 	icon_state = "land01"
 	var/dat
 	var/obj/machinery/computer/database/db

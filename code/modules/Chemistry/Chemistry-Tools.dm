@@ -10,7 +10,7 @@
 /obj/item/weapon/chem_grenade
 	name = "metal casing"
 	icon_state = "chemg1"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	item_state = "flashbang"
 	w_class = 2.0
 	force = 2.0
@@ -174,7 +174,7 @@
 /obj/syringe_gun_dummy
 	name = ""
 	desc = ""
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "null"
 	anchored = 1
 	density = 0
@@ -186,7 +186,7 @@
 
 /obj/item/weapon/gun/syringe
 	name = "syringe gun"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/gun.dmi'
 	icon_state = "syringegun"
 	item_state = "syringegun"
 	w_class = 3.0
@@ -279,7 +279,7 @@
 /obj/reagent_dispensers
 	name = "Dispenser"
 	desc = "..."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "watertank"
 	density = 1
 	anchored = 0
@@ -340,7 +340,7 @@
 /obj/item/weapon/reagent_containers
 	name = "Container"
 	desc = "..."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = null
 	w_class = 1
 	var/amount_per_transfer_from_this = 5
@@ -367,7 +367,7 @@
 /obj/item/weapon/reagent_containers/glass/
 	name = " "
 	desc = " "
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "null"
 	item_state = "null"
 	amount_per_transfer_from_this = 10
@@ -445,7 +445,7 @@
 /obj/item/weapon/reagent_containers/dropper
 	name = "Dropper"
 	desc = "A dropper. Transfers 5 units."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "dropper0"
 	amount_per_transfer_from_this = 5
 	var/filled = 0
@@ -507,7 +507,7 @@
 /obj/item/weapon/reagent_containers/syringe
 	name = "Syringe"
 	desc = "A syringe."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/syringe.dmi'
 	item_state = "syringe_0"
 	icon_state = "0"
 	amount_per_transfer_from_this = 5
@@ -719,7 +719,7 @@
 /obj/item/weapon/reagent_containers/pill
 	name = "pill"
 	desc = "a pill."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = null
 	item_state = "pill"
 
@@ -797,7 +797,7 @@
 /obj/item/weapon/reagent_containers/glass/bucket
 	desc = "It's a bucket."
 	name = "bucket"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/janitor.dmi'
 	icon_state = "bucket"
 	item_state = "bucket"
 	m_amt = 200
@@ -827,7 +827,7 @@
 /obj/item/weapon/reagent_containers/glass/dispenser
 	name = "reagent glass"
 	desc = "A reagent glass."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "beaker"
 	amount_per_transfer_from_this = 10
 	flags = FPRINT | TABLEPASS | OPENCONTAINER
@@ -845,7 +845,7 @@
 /obj/item/weapon/reagent_containers/glass/large
 	name = "large reagent glass"
 	desc = "A large reagent glass."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "beakerlarge"
 	item_state = "beaker"
 	amount_per_transfer_from_this = 10
@@ -865,7 +865,7 @@
 /obj/item/weapon/reagent_containers/glass/bottle/
 	name = "bottle"
 	desc = "A small bottle."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle16"
 	item_state = "atoxinbottle"
 	amount_per_transfer_from_this = 10
@@ -879,7 +879,7 @@
 /obj/item/weapon/reagent_containers/glass/bloodpack/
 	name = "Blood Pack"
 	desc = "A plastic bag of blood."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle16"
 	item_state = "atoxinbottle"
 	amount_per_transfer_from_this = 10
@@ -893,7 +893,7 @@
 /obj/item/weapon/reagent_containers/glass/bloodpack/A
 	name = "Blood Pack A"
 	desc = "A plastic bag of blood with a sticker that says A."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle16"
 	item_state = "atoxinbottle"
 	amount_per_transfer_from_this = 10
@@ -913,7 +913,7 @@
 /obj/item/weapon/reagent_containers/glass/bloodpack/B
 	name = "Blood Pack B"
 	desc = "A plastic bag of blood with a sticker that says B."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle16"
 	item_state = "atoxinbottle"
 	amount_per_transfer_from_this = 10
@@ -933,7 +933,7 @@
 /obj/item/weapon/reagent_containers/glass/bloodpack/O
 	name = "Blood Pack O"
 	desc = "A plastic bag of blood with a sticker that says O."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle16"
 	item_state = "atoxinbottle"
 	amount_per_transfer_from_this = 10
@@ -952,7 +952,7 @@
 /obj/item/weapon/reagent_containers/glass/bloodpack/AB
 	name = "Blood Pack AB"
 	desc = "A plastic bag of blood with a sticker that says AB."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle16"
 	item_state = "atoxinbottle"
 	amount_per_transfer_from_this = 10
@@ -972,7 +972,7 @@
 /obj/item/weapon/reagent_containers/glass/bottle/inaprovaline
 	name = "inaprovaline bottle"
 	desc = "A small bottle. Contains inaprovaline - used to stabilize patients."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle16"
 	amount_per_transfer_from_this = 10
 
@@ -985,7 +985,7 @@
 /obj/item/weapon/reagent_containers/glass/bottle/toxin
 	name = "toxin bottle"
 	desc = "A small bottle."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle12"
 	amount_per_transfer_from_this = 5
 
@@ -998,7 +998,7 @@
 /obj/item/weapon/reagent_containers/glass/bottle/stoxin
 	name = "sleep-toxin bottle"
 	desc = "A small bottle."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle20"
 	amount_per_transfer_from_this = 5
 
@@ -1011,7 +1011,7 @@
 /obj/item/weapon/reagent_containers/glass/bottle/antitoxin
 	name = "anti-toxin bottle"
 	desc = "A small bottle."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle17"
 	amount_per_transfer_from_this = 5
 
@@ -1026,7 +1026,7 @@
 /obj/item/weapon/reagent_containers/glass/beaker
 	name = "beaker"
 	desc = "A beaker. Can hold up to 50 units."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "beaker0"
 	item_state = "beaker"
 
@@ -1039,7 +1039,7 @@
 /obj/item/weapon/reagent_containers/glass/beaker/cryoxadone
 	name = "beaker"
 	desc = "A beaker. Can hold up to 30 units."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "beaker0"
 	item_state = "beaker"
 
@@ -1158,7 +1158,7 @@
 /obj/reagent_dispensers/watertank
 	name = "watertank"
 	desc = "A watertank"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "watertank"
 	amount_per_transfer_from_this = 10
 
@@ -1169,7 +1169,7 @@
 /obj/reagent_dispensers/hvwatertank
 	name = "high-volume watertank"
 	desc = "A large watertank"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "hvwatertank"
 	amount_per_transfer_from_this = 10
 
@@ -1180,7 +1180,7 @@
 /obj/reagent_dispensers/fueltank
 	name = "fueltank"
 	desc = "A fueltank"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "weldtank"
 	amount_per_transfer_from_this = 10
 
@@ -1191,7 +1191,7 @@
 /obj/reagent_dispensers/beerkeg
 	name = "beer keg"
 	desc = "A beer keg"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "beertankTEMP"
 	amount_per_transfer_from_this = 10
 

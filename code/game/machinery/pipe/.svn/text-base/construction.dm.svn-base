@@ -8,7 +8,7 @@ Buildable meters
 	desc = "A pipe"
 	var/pipe_type = 0
 	var/pipe_dir = 0
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/pipe-item.dmi'
 	icon_state = "straight"
 	item_state = "buildpipe"
 	flags = TABLEPASS|FPRINT
@@ -404,7 +404,7 @@ Buildable meters
 /obj/item/weapon/pipe_meter
 	name = "meter"
 	desc = "A meter that can be laid on pipes"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/pipe-item.dmi'
 	icon_state = "meter"
 	item_state = "buildpipe"
 	flags = TABLEPASS|FPRINT
@@ -425,7 +425,7 @@ Buildable meters
 /obj/item/weapon/filter_control
 	name = "filter control"
 	desc = "A switch to control filter inlets"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/pipe-item.dmi'
 	icon_state = "filter_control"
 	item_state = "buildpipe"
 	flags = TABLEPASS|FPRINT

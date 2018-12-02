@@ -1,6 +1,6 @@
 /obj/item/weapon/optical_unit
 	name = "optical sensor unit"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/items.dmi'
 	icon_state = "optical_unit"
 	item_state = "electronic"
 	throwforce = 5
@@ -11,7 +11,7 @@
 
 /obj/item/robot_parts
 	name = "robot parts"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/robot_parts.dmi'
 	item_state = "buildpipe"
 	icon_state = "blank"
 	flags = FPRINT | ONBELT | TABLEPASS | CONDUCT

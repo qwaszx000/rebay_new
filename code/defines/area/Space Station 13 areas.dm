@@ -21,7 +21,7 @@
 	var/air_door_close_delay = 0
 	level = null
 	name = "Space"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/turf/areas.dmi'
 	icon_state = "unknown"
 	layer = 10
 	mouse_opacity = 0

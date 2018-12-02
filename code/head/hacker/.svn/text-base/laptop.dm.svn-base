@@ -1,6 +1,6 @@
 obj/item/weapon/laptop
 	name = "Laptop"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/laptop.dmi'
 	icon_state = "laptop_0"
 	var/datum/os/OS
 	var/on = 0

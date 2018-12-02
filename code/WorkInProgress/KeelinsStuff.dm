@@ -1,5 +1,5 @@
 /obj/signpost
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/misc/old_or_unused.dmi'
 	icon_state = "signpost"
 	anchored = 1
 	density = 1
@@ -71,7 +71,7 @@
 		spawn(60) .()
 
 /obj/item/weapon/beach_ball
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/misc/beach.dmi'
 	icon_state = "ball"
 	name = "beach ball"
 	item_state = "clown"
@@ -89,7 +89,7 @@
 
 /*
 /obj/item/weapon/hand_labeler
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/misc/old_or_unused.dmi'
 	icon_state = "labeler"
 	item_state = "flight"
 	name = "Hand labeler"

@@ -1,6 +1,6 @@
 /obj/machinery/computer/travel
 	name = "Propulsion Control"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/computer.dmi'
 	icon_state = "id"
 	req_access = list(access_captain)
 

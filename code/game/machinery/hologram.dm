@@ -1,6 +1,6 @@
 /obj/machinery/hologram_ai
 	name = "Hologram Projector Platform"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/stationobjs.dmi'
 	icon_state = "hologram0"
 	var/atom/projection = null
 	var/temp = null
@@ -37,7 +37,7 @@
 
 	I.Blend(U, ICON_OVERLAY)
 
-	I.Blend(new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "aqua_s"), ICON_OVERLAY)
+	I.Blend(new /icon('icons/mob/uniform.dmi', "aqua_s"), ICON_OVERLAY)
 
 	src.projection.icon = I
 

@@ -29,17 +29,17 @@
 		return
 
 
-	overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "smes-op[online]")
+	overlays += image('icons/obj/power.dmi', "smes-op[online]")
 
 	if(charging)
-		overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "smes-oc1")
+		overlays += image('icons/obj/power.dmi', "smes-oc1")
 	else
 		if(chargemode)
-			overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "smes-oc0")
+			overlays += image('icons/obj/power.dmi', "smes-oc0")
 
 	var/clevel = chargedisplay()
 	if(clevel>0)
-		overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "smes-og[clevel]")
+		overlays += image('icons/obj/power.dmi', "smes-og[clevel]")
 
 /obj/machinery/power/smes/proc/chargedisplay()
 	return round(5.5*charge/capacity)

@@ -4,7 +4,7 @@
 /obj/item/device/pda
 	name = "PDA"
 	desc = "A portable microcomputer by Thinktronic Systems, LTD. Functionality determined by a preprogrammed ROM cartridge."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/pda.dmi'
 	icon_state = "pda"
 	item_state = "electronic"
 	w_class = 2.0
@@ -482,7 +482,7 @@
 							O.show_message(text("\icon[P] *[P.ttone]*"))
 
 					P.overlays = null
-					P.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "pda-r")
+					P.overlays += image('icons/obj/pda.dmi', "pda-r")
 				if("Send Honk")//Honk virus
 					if(istype(cartridge, /obj/item/weapon/cartridge/clown))//Cartridge checks are kind of unnecessary since everything is done through switch.
 						var/obj/item/device/pda/P = locate(href_list["target"])//Leaving it alone in case it may do something useful, I guess.
@@ -878,7 +878,7 @@
 			O.show_message(text("\icon[selected] *[selected:ttone]*"))
 
 	selected.overlays = null
-	selected.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "pda-r")
+	selected.overlays += image('icons/obj/pda.dmi', "pda-r")
 
 
 //Some spare PDAs in a box
@@ -886,7 +886,7 @@
 /obj/item/weapon/storage/PDAbox
 	name = "spare PDAs"
 	desc = "A box of spare PDA microcomputers."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/pda.dmi'
 	icon_state = "pdabox"
 	item_state = "syringe_kit"
 

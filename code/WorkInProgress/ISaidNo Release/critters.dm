@@ -3,7 +3,7 @@
 /obj/critter/
 	name = "critter"
 	desc = "you shouldnt be able to see this"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonCritterPort/critter.dmi'
 	layer = 5.0
 	density = 1
 	anchored = 0
@@ -844,7 +844,7 @@
 /obj/machinery/martianbomb
 	name = "martian bomb"
 	desc = "You'd best destroy this thing fast."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonCritterPort/critter.dmi'
 	icon_state = "mbomb-off"
 	anchored = 1
 	density = 1

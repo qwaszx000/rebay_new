@@ -11,7 +11,7 @@ TOILET
 	var/status = 0.0
 	var/clogged = 0.0
 	anchored = 1.0
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/stationobjs.dmi'
 	icon_state = "toilet"
 	item_state = "syringe_kit"
 

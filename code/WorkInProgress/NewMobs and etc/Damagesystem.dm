@@ -943,16 +943,16 @@
 		fat = "fat"*/
 
 	if (mutations & 8)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = "hulk[fat][!lying ? "_s" : "_l"]")
+		overlays += image("icon" = 'icons/effects/genetics.dmi', "icon_state" = "hulk[fat][!lying ? "_s" : "_l"]")
 
 	if (mutations & 2)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = "fire[fat][!lying ? "_s" : "_l"]")
+		overlays += image("icon" = 'icons/effects/genetics.dmi', "icon_state" = "fire[fat][!lying ? "_s" : "_l"]")
 
 	if (mutations & 1)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = "telekinesishead[fat][!lying ? "_s" : "_l"]")
+		overlays += image("icon" = 'icons/effects/genetics.dmi', "icon_state" = "telekinesishead[fat][!lying ? "_s" : "_l"]")
 
 	if (mutantrace)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = "[mutantrace][fat][!lying ? "_s" : "_l"]")
+		overlays += image("icon" = 'icons/effects/genetics.dmi', "icon_state" = "[mutantrace][fat][!lying ? "_s" : "_l"]")
 		if(face_standing)
 			del(face_standing)
 		if(face_lying)
@@ -990,7 +990,7 @@
 	//if (zone_sel)
 	//	zone_sel.overlays = null
 	//	zone_sel.overlays += body_standing
-	//	zone_sel.overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[]", zone_sel.selecting))
+	//	zone_sel.overlays += image("icon" = 'icons/mob/zone_sel.dmi', "icon_state" = text("[]", zone_sel.selecting))
 
 	if (lying)
 		icon = lying_icon
@@ -1025,16 +1025,16 @@
 			if (!t1)
 				t1 = icon_state
 			/*if (mutations & 32)
-				overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = "[t1][!lying ? "_s" : "_l"]", "layer" = MOB_LAYER)*/
+				overlays += image("icon" = 'icons/mob/uniform_fat.dmi', "icon_state" = "[t1][!lying ? "_s" : "_l"]", "layer" = MOB_LAYER)*/
 			//else
 			if(!lying)
 				var/datum/organ/external/rhand = organs["r_hand"]
 				var/datum/organ/external/lhand = organs["l_hand"]
 				var/iconx = text("[][][][]",t1, (!(lying) ? "_s" : "_l"),(rhand.destroyed ? "_rhand" : null),(lhand.destroyed ? "_lhand" : null))
-				overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi',"[iconx]",MOB_LAYER)
+				overlays += image('icons/mob/uniform.dmi',"[iconx]",MOB_LAYER)
 			else
 				var/iconx = "[t1]_l"
-				overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi',"[iconx]",MOB_LAYER)
+				overlays += image('icons/mob/uniform.dmi',"[iconx]",MOB_LAYER)
 			if (w_uniform.blood_DNA)
 				var/icon/stain_icon = icon('icons/effects/blood.dmi', "uniformblood[!lying ? "" : "2"]")
 				overlays += image("icon" = stain_icon, "layer" = MOB_LAYER)
@@ -1059,14 +1059,14 @@
 			t1 = gloves.icon_state
 		if(!lying)
 			if(!rhand.destroyed)
-				overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi',"[t1]_rhand",MOB_LAYER)
+				overlays += image('icons/mob/hands.dmi',"[t1]_rhand",MOB_LAYER)
 			if(!lhand.destroyed)
-				overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi',"[t1]_lhand",MOB_LAYER)
+				overlays += image('icons/mob/hands.dmi',"[t1]_lhand",MOB_LAYER)
 		else
 			if(!rhand.destroyed)
-				overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi',"[t1]2_rhand",MOB_LAYER)
+				overlays += image('icons/mob/hands.dmi',"[t1]2_rhand",MOB_LAYER)
 			if(!lhand.destroyed)
-				overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi',"[t1]2_lhand",MOB_LAYER)
+				overlays += image('icons/mob/hands.dmi',"[t1]2_lhand",MOB_LAYER)
 		if (gloves.blood_DNA)
 			var/icon/stain_icon = icon('icons/effects/blood.dmi', "bloodyhands[!lying ? "" : "2"]")
 			overlays += image("icon" = stain_icon, "layer" = MOB_LAYER)
@@ -1076,20 +1076,20 @@
 	// Glasses
 	if (glasses)
 		var/t1 = glasses.icon_state
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
+		overlays += image("icon" = 'icons/mob/eyes.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
 	// Ears
 	if (ears)
 		var/t1 = ears.icon_state
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
+		overlays += image("icon" = 'icons/mob/ears.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
 	// Shoes
 	if (shoes)
 		var/t1 = shoes.icon_state
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
+		overlays += image("icon" = 'icons/mob/feet.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
 		if (shoes.blood_DNA)
 			var/icon/stain_icon = icon('icons/effects/blood.dmi', "shoesblood[!lying ? "" : "2"]")
 			overlays += image("icon" = stain_icon, "layer" = MOB_LAYER)	// Radio
 /*	if (w_radio)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = "headset[!lying ? "" : "2"]", "layer" = MOB_LAYER) */
+		overlays += image("icon" = 'icons/mob/ears.dmi', "icon_state" = "headset[!lying ? "" : "2"]", "layer" = MOB_LAYER) */
 
 	if(client) hud_used.other_update() //Update the screenloc of the items on the 'other' inventory bar
 											   //to hide / show them.
@@ -1097,7 +1097,7 @@
 	if (wear_mask)
 		if (istype(wear_mask, /obj/item/clothing/mask))
 			var/t1 = wear_mask.icon_state
-			overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
+			overlays += image("icon" = 'icons/mob/mask.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
 			if (!istype(wear_mask, /obj/item/clothing/mask/cigarette))
 				if (wear_mask.blood_DNA)
 					var/icon/stain_icon = icon('icons/effects/blood.dmi', "maskblood[!lying ? "" : "2"]")
@@ -1139,7 +1139,7 @@
 				c:layer = initial(c:layer)*/
 		if (istype(wear_suit, /obj/item/clothing/suit))
 			var/t1 = wear_suit.icon_state
-			overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
+			overlays += image("icon" = 'icons/mob/suit.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
 		if (wear_suit.blood_DNA)
 			var/icon/stain_icon = null
 			if (istype(wear_suit, /obj/item/clothing/suit/armor/vest || /obj/item/clothing/suit/wcoat || /obj/item/clothing/suit/armor/a_i_a_ptank))
@@ -1191,7 +1191,7 @@
 	// Head
 	if (head)
 		var/t1 = head.icon_state
-		var/icon/head_icon = icon('icons/Uristqwerty/food_processor_placeholder.dmi', text("[][]", t1, (!( lying ) ? null : "2")))
+		var/icon/head_icon = icon('icons/mob/head.dmi', text("[][]", t1, (!( lying ) ? null : "2")))
 		overlays += image("icon" = head_icon, "layer" = MOB_LAYER)
 		if (head.blood_DNA)
 			var/icon/stain_icon = icon('icons/effects/blood.dmi', "helmetblood[!lying ? "" : "2"]")
@@ -1203,7 +1203,7 @@
 		var/t1 = belt.item_state
 		if (!t1)
 			t1 = belt.icon_state
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
+		overlays += image("icon" = 'icons/mob/belt.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
 		belt.screen_loc = ui_belt
 
 	// Suit storage
@@ -1211,7 +1211,7 @@
 		var/t1 = s_store.item_state
 		if (!t1)
 			t1 = s_store.icon_state
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
+		overlays += image("icon" = 'icons/mob/belt_mirror.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
 		s_store.screen_loc = ui_sstore1
 
 	if ((wear_mask && !(wear_mask.see_face)) || (head && !(head.see_face))) // can't see the face
@@ -1260,7 +1260,7 @@
 
 	if (back)
 		var/t1 = back.icon_state
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
+		overlays += image("icon" = 'icons/mob/back.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = MOB_LAYER)
 		back.screen_loc = ui_back
 
 	if (handcuffed)
@@ -1275,10 +1275,10 @@
 		client.screen += contents
 
 	if (r_hand)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = r_hand.item_state ? r_hand.item_state : r_hand.icon_state, "layer" = MOB_LAYER+1)
+		overlays += image("icon" = 'icons/mob/items_righthand.dmi', "icon_state" = r_hand.item_state ? r_hand.item_state : r_hand.icon_state, "layer" = MOB_LAYER+1)
 		r_hand.screen_loc = ui_rhand
 	if (l_hand)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = l_hand.item_state ? l_hand.item_state : l_hand.icon_state, "layer" = MOB_LAYER+1)
+		overlays += image("icon" = 'icons/mob/items_lefthand.dmi', "icon_state" = l_hand.item_state ? l_hand.item_state : l_hand.icon_state, "layer" = MOB_LAYER+1)
 		l_hand.screen_loc = ui_lhand
 
 
@@ -2604,15 +2604,15 @@
 			if(zombie)
 				O.damage_state = "30"
 
-			var/icon/DI = new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', O.damage_state)			// the damage icon for whole human
-			DI.Blend(new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', O.icon_name), ICON_MULTIPLY)		// mask with this organ's pixels
+			var/icon/DI = new /icon('icons/mob/dam_human.dmi', O.damage_state)			// the damage icon for whole human
+			DI.Blend(new /icon('icons/mob/dam_mask.dmi', O.icon_name), ICON_MULTIPLY)		// mask with this organ's pixels
 
 //		world << "[O.icon_name] [O.damage_state] \icon[DI]"
 
 			body_standing += DI
 
-			DI = new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "[O.damage_state]-2")				// repeat for lying icons
-			DI.Blend(new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "[O.icon_name]2"), ICON_MULTIPLY)
+			DI = new /icon('icons/mob/dam_human.dmi', "[O.damage_state]-2")				// repeat for lying icons
+			DI.Blend(new /icon('icons/mob/dam_mask.dmi', "[O.icon_name]2"), ICON_MULTIPLY)
 
 //		world << "[O.r_name]2 [O.d_i_state]-2 \icon[DI]"
 

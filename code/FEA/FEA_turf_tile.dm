@@ -358,7 +358,7 @@ turf
 			if(zone)
 				for(var/direction in cardinal)
 					if(air_check_directions&direction)
-					//	if(ticker) overlayss += image('icons/Uristqwerty/food_processor_placeholder.dmi',src,"arrow",dir=direction)
+					//	if(ticker) overlayss += image('icons/Testing/turf_analysis.dmi',src,"arrow",dir=direction)
 						var/turf/simulated/T = get_step(src,direction)
 
 						//See if actually a border
@@ -379,7 +379,7 @@ turf
 								if(!(T.zone in zone.connections))
 									zone.Connect(src,T)
 					else
-					//	if(ticker) overlayss += image('icons/Uristqwerty/food_processor_placeholder.dmi',src,"red_arrow",dir=direction)
+					//	if(ticker) overlayss += image('icons/Testing/turf_analysis.dmi',src,"red_arrow",dir=direction)
 						var/turf/simulated/T = get_step(src,direction)
 						if(T)
 							//if((T in zone.members) && !(T.HasDoor() && !T.blocks_air))
@@ -399,7 +399,7 @@ turf
 				group_border = 0
 				for(var/direction in cardinal)
 					if(air_check_directions&direction)
-						//(ticker) overlayss += image('icons/Uristqwerty/food_processor_placeholder.dmi',src,"arrow",dir=direction)
+						//(ticker) overlayss += image('icons/Testing/turf_analysis.dmi',src,"arrow",dir=direction)
 						var/turf/simulated/T = get_step(src,direction)
 
 						//See if actually a border
@@ -438,7 +438,7 @@ turf
 								if(!(T.zone in zone.connections))
 									zone.Connect(src,T)
 					else
-						//if(ticker) overlayss += image('icons/Uristqwerty/food_processor_placeholder.dmi',src,"red_arrow",dir=direction)
+						//if(ticker) overlayss += image('icons/Testing/turf_analysis.dmi',src,"red_arrow",dir=direction)
 						if(zone)
 							var/turf/simulated/T = get_step_3d(src,direction)
 							if(T)

@@ -1,6 +1,6 @@
 /obj/item/clothing/glasses
 	name = "glasses"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/clothing/glasses.dmi'
 	w_class = 2.0
 	flags = GLASSESCOVERSEYES
 

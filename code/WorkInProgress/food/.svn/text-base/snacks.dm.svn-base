@@ -26,7 +26,7 @@
 /obj/item/weapon/reagent_containers/food/snacks
 	name = "snack"
 	desc = "yummy"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/cooking.dmi'
 	icon_state = null
 	var/amount = 3   //amount of bites
 	var/edible = 1   //can you eat this?
@@ -1038,7 +1038,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/breadsys/salamistick
 	name = "salami stick"
 	desc = "Don't choke on this, find a knife."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/cooking.dmi'
 	icon_state = "salamistick3"
 	edible = 0
 	amount = 5
@@ -1047,7 +1047,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/breadsys/bigcheese
 	name = "cut of cheese"
 	desc = "Cut it with a knife."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/cooking.dmi'
 	icon_state = "bigcheese"
 	heal_amt = 3
 	amount = 1
@@ -1055,7 +1055,7 @@
 // *** Now icons for the stuff which goes on top of the bread slice ***
 
 /obj/item/weapon/reagent_containers/food/snacks/breadsys/ontop
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/cooking.dmi'
 	var/stateontop = "salami3" //state when ontop a sandvich
 
 // a slice of bread loaf

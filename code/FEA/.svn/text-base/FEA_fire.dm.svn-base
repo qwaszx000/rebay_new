@@ -48,7 +48,7 @@ obj/hotspot
 
 	//luminosity = 3
 
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/effects/fire.dmi'
 	icon_state = "1"
 
 	layer = TURF_LAYER
@@ -144,7 +144,7 @@ obj/hotspot/Del()
 obj/fire
 	anchored = 1
 	mouse_opacity = 0
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/effects/fire.dmi'
 	icon_state = "3"
 	layer = OBJ_LAYER
 	opacity = 1

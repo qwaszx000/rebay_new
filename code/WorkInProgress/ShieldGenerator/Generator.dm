@@ -6,7 +6,7 @@
 /obj/machinery/shielding/energyconverter
 	name = "Energy Converter"
 	desc = "An energy conversion unit for the shield generator system"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/machines/shieldgen.dmi'
 	icon_state = "econ"
 	anchored = 1
 	density = 1
@@ -218,6 +218,6 @@ Manual Mode Generation Rate:      <a href="?src=\ref[src]&man=1">M</a> <a href="
 	else
 		icon_state = "econ"
 		if(OperatingMode && Capacitor && !Capacitor.stat)
-			addoverlay(image('icons/Uristqwerty/food_processor_placeholder.dmi', "o[round((ConversionRate * 11) / HardMaximumConversionRate)]"))
+			addoverlay(image('icons/obj/machines/shieldgen.dmi', "o[round((ConversionRate * 11) / HardMaximumConversionRate)]"))
 		else
-			addoverlay(image('icons/Uristqwerty/food_processor_placeholder.dmi', "econ-o"))
+			addoverlay(image('icons/obj/machines/shieldgen.dmi', "econ-o"))

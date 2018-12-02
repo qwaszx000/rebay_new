@@ -6,7 +6,7 @@ RCD
 /obj/item/weapon/rcd
 	name = "rapid-construction-device (RCD)"
 	desc = "A device used to rapidly build walls/floor."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/items.dmi'
 	icon_state = "rcd"
 	opacity = 0
 	density = 0
@@ -27,7 +27,7 @@ RCD
 /obj/item/weapon/rcd_fake
 	name = "rapid-construction-device (RCD)"
 	desc = "A device used to rapidly build walls/floor."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/items.dmi'
 	icon_state = "rcd"
 	opacity = 0
 	density = 0
@@ -42,7 +42,7 @@ RCD
 /obj/item/weapon/rcd_ammo
 	name = "Compressed matter cartridge"
 	desc = "Highly compressed matter for the RCD."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/ammo.dmi'
 	icon_state = "rcd"
 	item_state = "rcdammo"
 	w_class = 1

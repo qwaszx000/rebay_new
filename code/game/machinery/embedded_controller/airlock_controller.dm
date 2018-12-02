@@ -202,7 +202,7 @@ datum/computer/file/embedded_program/airlock_controller
 
 
 obj/machinery/embedded_controller/radio/airlock_controller
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/airlock_machines.dmi'
 	icon_state = "airlock_control_standby"
 
 	name = "Airlock Console"

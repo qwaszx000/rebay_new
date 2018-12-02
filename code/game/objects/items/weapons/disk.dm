@@ -1,6 +1,6 @@
 /obj/item/weapon/disk
 	name = "Disk"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/items.dmi'
 	w_class = 1.0
 
 /obj/item/weapon/disk/data

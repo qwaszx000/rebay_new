@@ -438,7 +438,7 @@
 /obj/machinery/plantpot
 	name = "plant pot"
 	desc = "A tub filled with soil capable of sustaining plantlife."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonHydroPort/hydroponics.dmi'
 	icon_state = "pot-empty"
 	anchored = 1
 	density = 1
@@ -992,15 +992,15 @@
 		var/datum/plantgenes/DNA = src.plantgenes
 		src.overlays = null
 		switch (src.reagents.get_reagent_amount("water"))
-			if (0) src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "wbar-0")
-			if (1 to 40) src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "wbar-1")
-			if (41 to 100) src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "wbar-2")
-			if (101 to 200) src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "wbar-3")
-			if (201 to INFINITY) src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "wbar-4")
+			if (0) src.overlays += image('icons/GoonHydroPort/hydroponics.dmi', "wbar-0")
+			if (1 to 40) src.overlays += image('icons/GoonHydroPort/hydroponics.dmi', "wbar-1")
+			if (41 to 100) src.overlays += image('icons/GoonHydroPort/hydroponics.dmi', "wbar-2")
+			if (101 to 200) src.overlays += image('icons/GoonHydroPort/hydroponics.dmi', "wbar-3")
+			if (201 to INFINITY) src.overlays += image('icons/GoonHydroPort/hydroponics.dmi', "wbar-4")
 		if (src.current)
-			if (growing.harvestable && src.isready && src.plantcond != "dead") src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "harv-1")
-			else src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "harv-0")
-		else src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "harv-0")
+			if (growing.harvestable && src.isready && src.plantcond != "dead") src.overlays += image('icons/GoonHydroPort/hydroponics.dmi', "harv-1")
+			else src.overlays += image('icons/GoonHydroPort/hydroponics.dmi', "harv-0")
+		else src.overlays += image('icons/GoonHydroPort/hydroponics.dmi', "harv-0")
 
 		if (src.current)
 			if (src.plantcond != "dead")
@@ -1017,7 +1017,7 @@
 					else src.icon_state += "-G3"
 					if (DNA.mutantvar && growing.mutable) src.icon_state += "-M[DNA.mutantvar]"
 				for (var/X in DNA.commuts)
-					if (X == "immortal") src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "mut-sparkle")
+					if (X == "immortal") src.overlays += image('icons/GoonHydroPort/hydroponics.dmi', "mut-sparkle")
 			else src.icon_state = "[growing.name]-G0"
 		else src.icon_state = "pot-empty"
 
@@ -1109,7 +1109,7 @@
 /obj/reagent_dispensers/compostbin
 	name = "compost tank"
 	desc = "A device that mulches up unwanted produce into usable fertiliser."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonHydroPort/hydroponics.dmi'
 	icon_state = "compost"
 	amount_per_transfer_from_this = 30
 
@@ -1178,7 +1178,7 @@
 	desc = "A machine which can extract reagents from organic matter."
 	density = 1
 	anchored = 1
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonHydroPort/hydroponics.dmi'
 	icon_state = "reex-off"
 	//flags = NOSPLASH	 Strumpetplaya - commenting this out as it has components we don't support.
 	var/obj/item/weapon/reagent_containers/beaker = null
@@ -1329,7 +1329,7 @@
 /obj/submachine/seedextractor
 	name = "Seed Extractor"
 	desc = "Carefully extracts viable seeds from produce."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonHydroPort/hydroponics.dmi'
 	icon_state = "extractor-off"
 	anchored = 1
 	density = 1
@@ -1386,7 +1386,7 @@
 /obj/submachine/seedmutator
 	name = "Plant Gene Manipulator"
 	desc = "Exposes plant seeds to mutagenic radiation."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonHydroPort/hydroponics.dmi'
 	icon_state = "geneman-off"
 	anchored = 1
 	density = 1
@@ -1611,7 +1611,7 @@
 /obj/submachine/seed_vendor
 	name = "Seed Fabricator"
 	desc = "Fabricates basic plant seeds."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonHydroPort/hydroponics.dmi'
 	icon_state = "seeds"
 	density = 1
 	anchored = 1
@@ -1780,7 +1780,7 @@
 	attackby(obj/item/weapon/W as obj, mob/user as mob)
 		if(istype(W, /obj/item/weapon/screwdriver))
 			if (!src.panelopen)
-				src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "grife-panel")
+				src.overlays += image('icons/obj/vending.dmi', "grife-panel")
 				src.panelopen = 1
 			else
 				src.overlays = null
@@ -1852,7 +1852,7 @@
 /obj/item/weapon/plantanalyzer/
 	name = "Plant Analyzer"
 	desc = "A device which examines the genes of plant seeds."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonHydroPort/hydromisc.dmi'
 	icon_state = "plantanalyzer"
 	w_class = 1.0
 	flags = ONBELT
@@ -1861,7 +1861,7 @@
 /obj/item/weapon/reagent_containers/glass/wateringcan/
 	name = "watering can"
 	desc = "Used to water things. Obviously."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonHydroPort/hydromisc.dmi'
 	icon_state = "watercan"
 	amount_per_transfer_from_this = 30
 	w_class = 3.0
@@ -1875,7 +1875,7 @@
 /obj/item/weapon/reagent_containers/glass/compostbag/
 	name = "compost bag"
 	desc = "A big bag of compost."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/GoonHydroPort/hydromisc.dmi'
 	icon_state = "compost"
 	amount_per_transfer_from_this = 10
 	w_class = 3.0
@@ -1889,7 +1889,7 @@
 /obj/item/weapon/reagent_containers/glass/bottle/weedkiller
 	name = "atrazine bottle"
 	desc = "A small bottle filled with Atrazine, an effective weedkiller."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "bottle10"
 	amount_per_transfer_from_this = 10
 
@@ -1902,7 +1902,7 @@
 /obj/item/weapon/seedplanter
 	name = "Portable Seed Fabricator"
 	desc = "A tool for cyborgs used to create plant seeds."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/device.dmi'
 	icon_state = "forensic0"
 	var/seedpath = /obj/item/weapon/seed/apple
 
@@ -1943,7 +1943,7 @@
 /obj/spacevine
 	name = "Space Kudzu"
 	desc = "An extremely expansionistic species of vine."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/objects.dmi'
 	icon_state = "vine-light1"
 	anchored = 1
 	density = 0
@@ -2024,7 +2024,7 @@
 
 /obj/item/weapon/shard/crystal
 	name = "crystal shard"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/shards.dmi'
 	icon_state = "clarge"
 	desc = "A shard of Plasma Crystal. Very hard and sharp."
 	w_class = 3.0

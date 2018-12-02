@@ -18,8 +18,8 @@
 /mob/living/carbon/alien/humanoid/New()
 	..()
 	if(!istype(src, /mob/living/carbon/alien/humanoid/queen))
-		stand_icon = new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "alien_s")
-		lying_icon = new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "alien_l")
+		stand_icon = new /icon('icons/mob/alien.dmi', "alien_s")
+		lying_icon = new /icon('icons/mob/alien.dmi', "alien_l")
 	icon = stand_icon
 
 	if(name == "alien") name = text("alien ([rand(1, 1000)])")
@@ -235,7 +235,7 @@
 	if (zone_sel)
 		zone_sel.overlays = null
 		zone_sel.overlays += body_standing
-		zone_sel.overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = text("[]", zone_sel.selecting))
+		zone_sel.overlays += image("icon" = 'icons/mob/zone_sel.dmi', "icon_state" = text("[]", zone_sel.selecting))
 
 	if (lying)
 		icon = lying_icon
@@ -328,12 +328,12 @@
 		client.screen += contents
 
 	if (r_hand)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = r_hand.item_state ? r_hand.item_state : r_hand.icon_state, "layer" = MOB_LAYER+1)
+		overlays += image("icon" = 'icons/mob/items_righthand.dmi', "icon_state" = r_hand.item_state ? r_hand.item_state : r_hand.icon_state, "layer" = MOB_LAYER+1)
 
 		r_hand.screen_loc = ui_id
 
 	if (l_hand)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = l_hand.item_state ? l_hand.item_state : l_hand.icon_state, "layer" = MOB_LAYER+1)
+		overlays += image("icon" = 'icons/mob/items_lefthand.dmi', "icon_state" = l_hand.item_state ? l_hand.item_state : l_hand.icon_state, "layer" = MOB_LAYER+1)
 
 		l_hand.screen_loc = ui_belt
 

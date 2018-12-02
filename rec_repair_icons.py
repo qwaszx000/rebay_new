@@ -40,7 +40,7 @@ def get_repl(directory):
         for file_name in files:
             #if(file_name.endswith('.dmi')):
             search_list.append('\'' + file_name + '\'')
-            need_list.append('\'' + root + "/" + file_name + '\'')
+            need_list.append(('\'' + os.path.normpath(root + "/" + file_name) + '\'').replace("\\", "/"))
 
         for d in dirs:
             repl_dict.update(get_repl(root + "/" + d))

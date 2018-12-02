@@ -4,7 +4,7 @@
 
 /obj/machinery/sleep_console
 	name = "Sleeper Console"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/Cryogenic2.dmi'
 	icon_state = "sleeperconsole"
 	var/obj/machinery/sleeper/connected = null
 	anchored = 1 //About time someone fixed this.
@@ -104,7 +104,7 @@
 
 /obj/machinery/sleeper
 	name = "Sleeper"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/Cryogenic2.dmi'
 	icon_state = "sleeper_0"
 	density = 1
 	var/mob/occupant = null

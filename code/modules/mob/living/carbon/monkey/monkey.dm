@@ -286,11 +286,11 @@
 			overlays += image("icon" = 'icons/mob/monkey.dmi', "icon_state" = text("[][]", t1, (!( lying ) ? null : "2")), "layer" = layer)
 		wear_mask.screen_loc = ui_mask
 	if (r_hand)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = r_hand.item_state ? r_hand.item_state : r_hand.icon_state, "layer" = layer)
+		overlays += image("icon" = 'icons/mob/items_righthand.dmi', "icon_state" = r_hand.item_state ? r_hand.item_state : r_hand.icon_state, "layer" = layer)
 		r_hand.screen_loc = ui_rhand
 
 	if (l_hand)
-		overlays += image("icon" = 'icons/Uristqwerty/food_processor_placeholder.dmi', "icon_state" = l_hand.item_state ? l_hand.item_state : l_hand.icon_state, "layer" = layer)
+		overlays += image("icon" = 'icons/mob/items_lefthand.dmi', "icon_state" = l_hand.item_state ? l_hand.item_state : l_hand.icon_state, "layer" = layer)
 		l_hand.screen_loc = ui_lhand
 
 	if (back)

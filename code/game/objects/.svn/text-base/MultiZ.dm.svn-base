@@ -1,5 +1,5 @@
 /obj/multiz
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/multiz.dmi'
 	density = 0
 	opacity = 0
 	anchored = 1

@@ -33,7 +33,7 @@
 		spawn(0)
 			var/obj/overlay/A = new /obj/overlay( usr.loc )
 			A.icon_state = "cbbolt"
-			A.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+			A.icon = 'icons/obj/projectiles.dmi'
 			A.name = "acid"
 			A.anchored = 0
 			A.density = 0
@@ -42,7 +42,7 @@
 			for(i=0, i<20, i++)
 				var/obj/overlay/B = new /obj/overlay( A.loc )
 				B.icon_state = "cbbolt"
-				B.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+				B.icon = 'icons/obj/projectiles.dmi'
 				B.name = "acid"
 				B.anchored = 1
 				B.density = 0

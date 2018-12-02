@@ -1,6 +1,6 @@
 /obj/machinery/computer/textadv
 	name = "Quest for Macguffin"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/computer.dmi'
 	icon_state = "arcade"
 	var/datum/textadv/ta = new/datum/textadv
 	var/list/msgs = list()

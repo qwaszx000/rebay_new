@@ -26,7 +26,7 @@
 /obj/item/weapon/pipesegment/
 	name = "Pipe segment"
 	desc = "used for emergency pipe repairs"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/pipes.dmi'
 	icon_state = "exposed"
 	m_amt = 50
 /obj/item/weapon/bedsheet/attack_self(mob/user as mob)
@@ -36,18 +36,18 @@
 	return
 obj/item/weapon/cane
 	name = "Cane"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/items.dmi'
 	icon_state = "cane"
 	m_amt = 5
 
 /obj/item/weapon/meltedmetal
 	name = "Ruined metal"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "molten"
 	m_amt = 0
 /obj/item/weapon/meltedglass
 	name = "Ruined glass"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/chemical.dmi'
 	icon_state = "molten"
 	m_amt = 0
 /obj/item/weapon/meltedmetal/temperature_expose()

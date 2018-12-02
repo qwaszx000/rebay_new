@@ -449,8 +449,8 @@ obj/item/weapon/gun/revolver/attackby(obj/item/weapon/ammo/a357/A as obj, mob/us
 	src.icon_state = text("taser[]", ratio)
 	if(src.blood_DNA)
 		var/icon/I = new /icon(initial(src.icon), src.icon_state)
-		I.Blend(new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "thisisfuckingstupid"),ICON_ADD)
-		I.Blend(new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "itemblood"),ICON_MULTIPLY)
+		I.Blend(new /icon('icons/effects/blood.dmi', "thisisfuckingstupid"),ICON_ADD)
+		I.Blend(new /icon('icons/effects/blood.dmi', "itemblood"),ICON_MULTIPLY)
 		I.Blend(new /icon(initial(src.icon), src.icon_state),ICON_UNDERLAY) //motherfucker
 		src.icon = I
 /obj/item/weapon/gun/energy/taser_gun/afterattack(atom/target as mob|obj|turf|area, mob/user as mob, flag)
@@ -650,8 +650,8 @@ obj/item/weapon/gun/revolver/attackby(obj/item/weapon/ammo/a357/A as obj, mob/us
 	src.icon_state = text("taser[]", ratio)
 	if(src.blood_DNA)
 		var/icon/I = new /icon(initial(src.icon), src.icon_state)
-		I.Blend(new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "thisisfuckingstupid"),ICON_ADD)
-		I.Blend(new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "itemblood"),ICON_MULTIPLY)
+		I.Blend(new /icon('icons/effects/blood.dmi', "thisisfuckingstupid"),ICON_ADD)
+		I.Blend(new /icon('icons/effects/blood.dmi', "itemblood"),ICON_MULTIPLY)
 		I.Blend(new /icon(initial(src.icon), src.icon_state),ICON_UNDERLAY) //motherfucker
 		src.icon = I
 /obj/item/weapon/gun/energy/teleport_gun/afterattack(atom/target as mob|obj|turf|area, mob/user as mob, flag)
@@ -764,8 +764,8 @@ obj/item/weapon/gun/revolver/attackby(obj/item/weapon/ammo/a357/A as obj, mob/us
 		src.icon_state = text("energy[]", ratio)
 		if(src.blood_DNA)
 			var/icon/I = new /icon(initial(src.icon), src.icon_state)
-			I.Blend(new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "thisisfuckingstupid"),ICON_ADD)
-			I.Blend(new /icon('icons/Uristqwerty/food_processor_placeholder.dmi', "itemblood"),ICON_MULTIPLY)
+			I.Blend(new /icon('icons/effects/blood.dmi', "thisisfuckingstupid"),ICON_ADD)
+			I.Blend(new /icon('icons/effects/blood.dmi', "itemblood"),ICON_MULTIPLY)
 			I.Blend(new /icon(initial(src.icon), src.icon_state),ICON_UNDERLAY) //motherfucker
 			src.icon = I
 	afterattack(atom/target as mob|obj|turf|area, mob/user as mob, flag)

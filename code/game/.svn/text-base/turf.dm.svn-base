@@ -354,7 +354,7 @@ turf/simulated/wall/bullet_act(flag,dir)
 			var/obj/overlay/O = new/obj/overlay( src )
 			O.name = "Thermite"
 			O.desc = "Looks hot."
-			O.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+			O.icon = 'icons/effects/fire.dmi'
 			O.icon_state = "2"
 			O.anchored = 1
 			O.density = 1
@@ -400,7 +400,7 @@ turf/simulated/wall/bullet_act(flag,dir)
 			var/obj/overlay/O = new/obj/overlay( src )
 			O.name = "Thermite"
 			O.desc = "Looks hot."
-			O.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+			O.icon = 'icons/effects/fire.dmi'
 			O.icon_state = "2"
 			O.anchored = 1
 			O.density = 1
@@ -653,7 +653,7 @@ turf/simulated/floor/proc/update_icon()
 			var/obj/overlay/O = new/obj/overlay( src )
 			O.name = "Thermite"
 			O.desc = "Looks hot."
-			O.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+			O.icon = 'icons/effects/fire.dmi'
 			O.icon_state = "2"
 			O.anchored = 1
 			O.density = 1

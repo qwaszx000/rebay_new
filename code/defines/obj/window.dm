@@ -1,6 +1,6 @@
 /obj/window
 	name = "window"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/structures.dmi'
 	icon_state = "window"
 	desc = "A window."
 	density = 1
@@ -45,7 +45,7 @@
 // Pod
 /obj/window_pod
 	name = "window"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/turf/shuttle.dmi'
 	icon_state = "window1"
 	desc = "A thick window secured into its frame."
 	dir = 2

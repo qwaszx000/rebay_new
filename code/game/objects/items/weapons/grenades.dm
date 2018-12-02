@@ -8,7 +8,7 @@ FLASHBANG
 /obj/item/weapon/flashbang
 	desc = "It is set to detonate in 3 seconds."
 	name = "flashbang"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/grenade.dmi'
 	icon_state = "flashbang"
 	var/state = null
 	var/det_time = 30.0
@@ -24,7 +24,7 @@ FLASHBANG
 	var/state = null
 	var/det_time = 50.0
 	w_class = 2.0
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/device.dmi'
 	icon_state = "emp"
 	item_state = "emp"
 	throw_speed = 4

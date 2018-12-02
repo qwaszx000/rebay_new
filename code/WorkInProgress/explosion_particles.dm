@@ -38,7 +38,7 @@
 
 /obj/effects/explosion
 	name = "fire"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/effects/96x96.dmi'
 	icon_state = "explosion"
 	opacity = 1
 	anchored = 1

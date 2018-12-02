@@ -5,7 +5,7 @@
 /obj/item/weapon/cell
 	name = "power cell"
 	desc = "A rechargeable electrochemical power cell."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/power.dmi'
 	icon_state = "cell"
 	item_state = "cell"
 	flags = FPRINT|TABLEPASS
@@ -44,9 +44,9 @@
 	if(charge < 0.01)
 		return
 	else if(charge/maxcharge >=0.995)
-		overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "cell-o2")
+		overlays += image('icons/obj/power.dmi', "cell-o2")
 	else
-		overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "cell-o1")
+		overlays += image('icons/obj/power.dmi', "cell-o1")
 
 /obj/item/weapon/cell/proc/percent()		// return % charge of cell
 	return 100.0*charge/maxcharge

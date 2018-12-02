@@ -1,6 +1,6 @@
 /obj/item/weapon/storage/photo_album
 	name = "Photo album"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/misc/old_or_unused.dmi'
 	icon_state = "album"
 	item_state = "briefcase"
 
@@ -59,7 +59,7 @@
 
 /obj/item/weapon/camera_test
 	name = "camera"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/misc/old_or_unused.dmi'
 	desc = "A one use - polaroid camera. 10 photos left."
 	icon_state = "camera"
 	item_state = "electropack"
@@ -74,7 +74,7 @@
 
 /obj/item/weapon/photo
 	name = "photo"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/misc/old_or_unused.dmi'
 	icon_state = "photo"
 	item_state = "clipboard"
 	w_class = 1.0
@@ -95,7 +95,7 @@
 
 	var/turf/the_turf = get_turf(target)
 
-	var/icon/photo = icon('icons/Uristqwerty/food_processor_placeholder.dmi',"photo")
+	var/icon/photo = icon('icons/misc/old_or_unused.dmi',"photo")
 
 	var/icon/turficon = build_composite_icon(the_turf)
 	turficon.Scale(22,20)

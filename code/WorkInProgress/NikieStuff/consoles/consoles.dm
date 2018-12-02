@@ -1,6 +1,6 @@
 /obj/machinery/console
 	name = "computer"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/computer.dmi'
 	density = 1
 	anchored = 1.0
 	var/brightnessred = 2

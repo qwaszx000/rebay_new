@@ -33,7 +33,7 @@
 
 /obj/machinery/door/airlock
 	name = "Airlock"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/doorint.dmi'
 	icon_state = "door_closed"
 
 	var/aiControlDisabled = 0 //If 1, AI control is disabled until the AI hacks back in and disables the lock. If 2, the AI has bypassed the lock. If -1, the control is enabled but the AI had bypassed it earlier, so if it is disabled again the AI would have no trouble getting back in.
@@ -59,33 +59,33 @@
 
 /obj/machinery/door/airlock/command
 	name = "Airlock"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorcom.dmi'
 	req_access = list(access_heads)
 
 /obj/machinery/door/airlock/glass/command
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorcomglass.dmi'
 	req_access = list(access_heads)
 
 /obj/machinery/door/airlock/security
 	explosionstrength = 3
 	name = "Airlock"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorsec.dmi'
 	req_access = list(access_security)
 
 /obj/machinery/door/airlock/glass/security
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorsecglass.dmi'
 	req_access = list(access_security)
 
 /obj/machinery/door/airlock/security/hatch
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorhatcharmoury.dmi'
 
 /obj/machinery/door/airlock/engineering
 	name = "Airlock"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Dooreng.dmi'
 	req_access = list(access_engine)
 
 /obj/machinery/door/airlock/glass/engineering
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorengglass.dmi'
 	req_access = list(access_engine)
 
 /obj/machinery/door/airlock/medical
@@ -106,30 +106,30 @@
 
 /obj/machinery/door/airlock/maintenance
 	name = "Maintenance Access"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doormaint.dmi'
 	req_access = list(access_maint_tunnels)
 
 /obj/machinery/door/airlock/maintenance/hatch
 	name = "Maintenance Access"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorhatchmaint.dmi'
 	req_access = list(access_maint_tunnels)
 
 /obj/machinery/door/airlock/external
 	name = "External Airlock"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorext.dmi'
 
 /obj/machinery/door/airlock/glass
 	name = "Glass Airlock"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorglass.dmi'
 	opacity = 0
 
 /obj/machinery/door/airlock/highsec
 	explosionstrength = 4
 	name = "Secure Airlock"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorhatchele.dmi'
 
 /obj/machinery/door/airlock/freezer
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/doors/Doorfreezer.dmi'
 
 
 /obj/machinery/door/airlock/New()

@@ -2,7 +2,7 @@
 
 /obj/machinery/gibber/New()
 	..()
-	src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "grindnotinuse")
+	src.overlays += image('icons/obj/kitchen.dmi', "grindnotinuse")
 
 /obj/machinery/gibber/attack_paw(mob/user as mob)
 	return src.attack_hand(user)
@@ -113,7 +113,7 @@
 				new /obj/decal/cleanable/blood/gibs(Tx3)
 				newmeat3.loc = get_turf(Tx3)
 			if(src.dirty == 1)
-				src.overlays += image('icons/Uristqwerty/food_processor_placeholder.dmi', "grindbloody")
+				src.overlays += image('icons/obj/kitchen.dmi', "grindbloody")
 		src.operating = 0
 
 

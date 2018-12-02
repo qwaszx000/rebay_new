@@ -1,5 +1,5 @@
 obj/bodybag
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/bodybag.dmi'
 	icon_state = "b00"
 	desc = "A body bag designed to contain those with a less fortunate fate."
 	name = "body bag"

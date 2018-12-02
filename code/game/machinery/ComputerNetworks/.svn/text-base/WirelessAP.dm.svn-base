@@ -1,6 +1,6 @@
 /obj/machinery/network/wirelessap
 	name = "Wireless AP"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/machines/netobjs.dmi'
 	icon_state = "ap"
 	desc = "An access point for wireless network devices"
 	anchored = 1

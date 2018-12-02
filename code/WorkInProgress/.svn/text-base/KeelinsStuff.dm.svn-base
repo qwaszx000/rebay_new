@@ -1,5 +1,5 @@
 /obj/signpost
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/misc/old_or_unused.dmi'
 	icon_state = "signpost"
 	anchored = 1
 	density = 1
@@ -71,7 +71,7 @@
 		spawn(60) .()
 
 /obj/item/weapon/beach_ball
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/misc/beach.dmi'
 	icon_state = "ball"
 	name = "beach ball"
 	item_state = "clown"
@@ -89,7 +89,7 @@
 
 /*
 /obj/item/weapon/hand_labeler
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/misc/old_or_unused.dmi'
 	icon_state = "labeler"
 	item_state = "flight"
 	name = "Hand labeler"
@@ -239,7 +239,7 @@
 /proc/fake_blood(var/mob/target)
 	var/obj/overlay/O = new/obj/overlay(target.loc)
 	O.name = "blood"
-	var/image/I = image('icons/Uristqwerty/food_processor_placeholder.dmi',O,"floor[rand(1,7)]",O.dir,1)
+	var/image/I = image('icons/effects/blood.dmi',O,"floor[rand(1,7)]",O.dir,1)
 	target << I
 	spawn(300)
 		del(O)

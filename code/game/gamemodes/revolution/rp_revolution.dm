@@ -419,7 +419,7 @@
 
 /*obj/item/weapon/paper/communist_manifesto
 	name = "Communist Manifesto"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/books.dmi'
 	icon_state = "redcommunist"
 	info = "Supporters of the Revolution:<br><br>"
 	attack(mob/living/carbon/M as mob, mob/user as mob)

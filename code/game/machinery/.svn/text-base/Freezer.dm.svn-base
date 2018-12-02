@@ -1,6 +1,6 @@
 /obj/machinery/atmospherics/unary/cold_sink/freezer
 	name = "Freezer"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/Cryogenic2.dmi'
 	icon_state = "freezer_0"
 	density = 1
 

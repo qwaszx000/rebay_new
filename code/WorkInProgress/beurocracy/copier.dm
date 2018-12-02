@@ -2,7 +2,7 @@
 
 /obj/machinery/copier
 	name = "Copy Machine"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/beurocracy.dmi'
 	icon_state = "copier"
 	density = 1
 	anchored = 1

@@ -2,7 +2,7 @@
 
 /obj/item/clothing/mask
 	name = "mask"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/clothing/masks.dmi'
 	var/vchange = 0
 	body_parts_covered = HEAD
 

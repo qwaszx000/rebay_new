@@ -7,7 +7,7 @@
 /obj/machinery/engine/supermatter
 	name = "Supermatter"
 	desc = "A strangely translucent and iridescent crystal.  \red You get headaches just from looking at it."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/machines/engine.dmi'
 	icon_state = "darkmatter"
 	density = 1
 	anchored = 1
@@ -23,7 +23,7 @@
 
 /obj/machinery/engine/klaxon
 	name = "Emergency Klaxon"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/machines/engine.dmi'
 	icon_state = "darkmatter"
 	density = 1
 	anchored = 1

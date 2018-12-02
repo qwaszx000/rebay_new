@@ -31,7 +31,7 @@ MOP
 
 	var/obj/decal/D = new/obj/decal(get_turf(src))
 	D.name = "chemicals"
-	D.icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	D.icon = 'icons/obj/chemical.dmi'
 	D.icon_state = "chempuff"
 	D.create_reagents(10)
 	src.reagents.trans_to(D, 10)

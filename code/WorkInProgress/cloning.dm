@@ -10,7 +10,7 @@
 	name = "Cloning Pod"
 	desc = "An electronically-lockable pod for growing organic tissue."
 	density = 1
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/cloning.dmi'
 	icon_state = "pod_0"
 	req_access = list(access_medlab) //For premature unlocking.
 	var/mob/living/occupant
@@ -23,7 +23,7 @@
 
 /obj/machinery/computer/cloning
 	name = "Cloning Console"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/computer.dmi'
 	icon_state = "dna"
 	req_access = list(access_heads) //Only used for record deletion right now.
 	var/obj/machinery/dna_scannernew/scanner = null //Linked scanner. For scanning.

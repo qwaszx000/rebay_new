@@ -481,13 +481,13 @@
 				icon_state = "filter_on"
 			if(!A)
 				A = get_step(src,turn(dir,270))
-				//A.overlays += 'icons//debug_connect.dmi'
+				//A.overlays += 'icons/debug_connect.dmi'
 			if(!B)
 				B = get_step(src,dir)
-				//B.overlays += 'icons//debug_connect.dmi'
+				//B.overlays += 'icons/debug_connect.dmi'
 			if(!C)
 				C = get_step(src,turn(dir,180))
-				//C.overlays += 'icons//debug_connect.dmi'
+				//C.overlays += 'icons/debug_connect.dmi'
 			var/datum/UnifiedNetwork
 				OutputANet
 				OutputBNet
@@ -1205,8 +1205,8 @@ var/PipeVolume = 25
 						User << "\red Unknown: [round(unknown_concentration*100)]%"
 					User << "\blue Temperature: [round(air_contents.temperature-T0C)]&deg;C"
 					//for(var/obj/cabling/C in Network.Cables)
-					//	C.overlays += 'icons//debug_update.dmi'
-					//	spawn(5) C.overlays -= 'icons//debug_update.dmi'
+					//	C.overlays += 'icons/debug_update.dmi'
+					//	spawn(5) C.overlays -= 'icons/debug_update.dmi'
 				else
 					User << "\blue Pipeline is empty!"
 		return

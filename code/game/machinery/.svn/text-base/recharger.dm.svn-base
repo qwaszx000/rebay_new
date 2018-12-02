@@ -1,6 +1,6 @@
 obj/machinery/recharger
 	anchored = 1.0
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/stationobjs.dmi'
 	icon_state = "recharger0"
 	name = "recharger"
 

@@ -1,5 +1,5 @@
 obj/structure
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/structures.dmi'
 
 	girder
 		icon_state = "girder"

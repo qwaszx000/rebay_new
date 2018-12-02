@@ -38,7 +38,7 @@
 /obj/machinery/sparker
 	name = "Wall-mounted Igniter"
 	desc = "A wall-mounted ignition device."
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/stationobjs.dmi'
 	icon_state = "migniter"
 	var/id = null
 	var/disable = 0

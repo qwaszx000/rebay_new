@@ -1,6 +1,6 @@
 /obj/item/weapon/secstorage/ssafe
 	name = "secure safe"
-	icon = 'icons/Uristqwerty/food_processor_placeholder.dmi'
+	icon = 'icons/obj/storage.dmi'
 	icon_state = "safe"
 	icon_open = "safe0"
 	icon_locking = "safeb"
