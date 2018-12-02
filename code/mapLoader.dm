@@ -1,3 +1,4 @@
+#define SQL_DB_T
 /proc/QML_parseFunc(var/func, var/args)
 	switch(func)
 		if("newlist")
