@@ -1,5 +1,5 @@
 /obj/machinery/atmospherics/unary/outlet_injector
-	icon = 'icons//debug_connect.dmi'
+	icon = 'icons/obj/atmospherics/outlet_injector.dmi'
 	icon_state = "off"
 
 	name = "Air Injector"

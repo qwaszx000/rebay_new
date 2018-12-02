@@ -1,5 +1,5 @@
 obj/machinery/atmospherics/filter
-	icon = 'icons//debug_connect.dmi'
+	icon = 'icons/obj/atmospherics/filter.dmi'
 	icon_state = "intact_off"
 	density = 1
 

@@ -1,5 +1,5 @@
 obj/machinery/atmospherics/mixer
-	icon = 'icons//debug_connect.dmi'
+	icon = 'icons/objtmospherics/mixer.dmi'
 	icon_state = "intact_off"
 	density = 1
 

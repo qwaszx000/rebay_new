@@ -1,5 +1,5 @@
 /obj/machinery/atmospherics/portables_connector
-	icon = 'icons//debug_connect.dmi'
+	icon = 'icons/obj/atmospherics/portables_connector.dmi'
 	icon_state = "intact"
 
 	name = "Connector Port"
